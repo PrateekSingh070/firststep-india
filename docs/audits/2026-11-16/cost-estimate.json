@@ -1,0 +1,20 @@
+{
+  "basis": "Hypothetical separate API implementation; NOT measured spend of current cloud task",
+  "tokenizer": "o200k_base proxy; excludes chat framing, hidden reasoning, agent history, tool calls and retries",
+  "sample_size": 50,
+  "source_fields": "Current candidate record fields, description clipped to 2200 characters; existing labels removed",
+  "sample_payload_input_tokens": 17721,
+  "sample_json_output_tokens": 1042,
+  "instruction_tokens_per_batch": 136,
+  "assumed_batch_size": 40,
+  "input_tokens_per_1000": 357820.0,
+  "visible_output_tokens_per_1000": 20840.0,
+  "illustrative_model": "gpt-5.6-luna",
+  "input_usd_per_million": 0.2,
+  "output_usd_per_million": 1.2,
+  "single_pass_usd_per_1000": 0.096572,
+  "price_source": "https://developers.openai.com/api/docs/models/gpt-5.6-luna",
+  "actual_model_id": null,
+  "actual_token_usage": null,
+  "actual_cost_per_1000": null
+}

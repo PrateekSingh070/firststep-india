@@ -4,6 +4,10 @@
 
 FirstStep collects real public internship posts in India, removes duplicates, applies LLM role/city annotations, and presents them in a searchable board. Production readback on 16 November 2026 confirmed **345 active, fully tagged listings** from Unstop and Internshala.
 
+## Tagging quality audit
+
+A reproducible 50-post self-audit found 48 clearly correct role tags, 47 clearly correct location tag sets, and 45 posts with both clearly correct. Ambiguous cases are counted separately. Actual cloud-task cost per 1,000 is not instrumented; the report separates that gap from an illustrative API token budget. [Read the complete audit](docs/tagging-audit-2026-11-16.md).
+
 ## Repository layout
 
 - `web/`: the deployed React/Vite frontend, plus the read-only Vercel Function in `web/api/jobs.js`.
