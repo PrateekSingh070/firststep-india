@@ -58,3 +58,8 @@ The initial source dataset in `collector/data/seed.json` is a real fallback snap
 - The schedule is outside this Git repository; the instructions are checked in for reproducibility.
 - Both source fetches must succeed before publication. This preserves consistency but makes either source outage block a fresh snapshot.
 - The UI's device-local bookmarks remain separate across the old and new website origins.
+
+
+## Product review layer and local workspace
+
+The Vercel adapter validates records and applies the [source-bound review layer](product-upgrade.md). GET /api/status separately reads public collection health. React keeps skills, application stages, notes and follow-up dates locally and performs literal term matching. The Evidence dashboard exposes the baseline audit and live health without claiming to verify scheduler-run history.

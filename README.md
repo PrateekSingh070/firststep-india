@@ -4,6 +4,12 @@
 
 FirstStep collects real public internship posts in India, removes duplicates, applies LLM role/city annotations, and presents them in a searchable board. Production readback on 16 November 2026 confirmed **345 active, fully tagged listings** from Unstop and Internshala.
 
+## Product workspace
+
+Discover now includes explainable skill matches, side-by-side comparison, shareable filters, safe CSV export and source-bound review badges. Applications adds device-local stages, notes and follow-up dates. Evidence shows live collection health, audit rows, corrections and unresolved cases. [Upgrade details](docs/product-upgrade.md) · [90-second competition walkthrough](docs/competition-demo.md).
+
+GitHub Actions runs web regression tests, type checks, the production build, collector tests and audit verification.
+
 ## Tagging quality audit
 
 A reproducible 50-post self-audit found 48 clearly correct role tags, 47 clearly correct location tag sets, and 45 posts with both clearly correct. Ambiguous cases are counted separately. Actual cloud-task cost per 1,000 is not instrumented; the report separates that gap from an illustrative API token budget. [Read the complete audit](docs/tagging-audit-2026-11-16.md).
@@ -52,6 +58,8 @@ node --test collector/tests/pipeline.test.mjs
 ```
 
 To run the entire collector's local preview, install its dependencies separately and run `npm run dev` inside `collector/`. Its local R2 state is separate from production.
+
+The Vercel API applies reviewed corrections only to identical source versions and flags changed inputs for re-review. Original R2 source snapshots are preserved. The pre-correction audit remains the baseline.
 
 ## Refresh and model behavior
 

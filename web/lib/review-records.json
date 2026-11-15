@@ -1,0 +1,709 @@
+[
+  {
+    "id": "unstop-1799974",
+    "inputFingerprint": "6b9de29a36cc6fe1b8560d874fdabbaf4654289e78aa28f8d34903e0c7e434be",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Design & Creative",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Editing reels and short videos is the primary duty; the description explicitly describes remote collaboration.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1806418",
+    "inputFingerprint": "3d2d1660cd7c6a6f293e60fd5b10fa3dfebbd80d210c361d24e96aac5e351540",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Data & AI",
+    "cities": [
+      "Remote"
+    ],
+    "note": "AI experiments, data preparation and model evaluation; explicitly remote.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1807268",
+    "inputFingerprint": "bb4e6c1ed58859f47d48c1f8488430a1d9bbd507ddc7c4a1970aba95526d0c68",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Mumbai"
+    ],
+    "note": "Campaigns, brand content and social channels; the opening is based in Mumbai.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1795405",
+    "inputFingerprint": "c4edfeb22765581989ef1830d5fa385a25edcff5ab85dd11550f8b119dde4dea",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Finance",
+    "cities": [
+      "Noida"
+    ],
+    "note": "Payroll records and pay-cycle processing fit the broad Finance category; Noida is in the structured source location.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1802475",
+    "inputFingerprint": "239a800e22e05a4be2d6422ae0c7f15e6d2067a6dde983e9fbe9fe8b42ca71b4",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Noida"
+    ],
+    "note": "Lead generation, proposals, negotiations and sales targets; Noida source location.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1803820",
+    "inputFingerprint": "acafa7771990a0c1ebb46734d4dee7475a3477b284786de6e2016c84f92df6ac",
+    "roleVerdict": "wrong",
+    "locationVerdict": "correct",
+    "jointVerdict": "wrong",
+    "role": "Education",
+    "cities": [
+      "Anekal"
+    ],
+    "note": "Despite the business-development title, duties chiefly involve training students, workshops, assessments and monitoring learning.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "internshala-3330304",
+    "inputFingerprint": "e41f86dd4c62f0c8f7ebe613504861831fb86ebd6b0c28c4ece27d3860887bde",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Bengaluru"
+    ],
+    "note": "Prospect research, outreach and acquisition follow-ups; Bangalore-only in-office eligibility.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1804231",
+    "inputFingerprint": "a474d7c27d5e69d2b17d6a5b8e76889bd5480ffa5a350a665335a844f061bd0f",
+    "roleVerdict": "correct",
+    "locationVerdict": "wrong",
+    "jointVerdict": "wrong",
+    "role": "Marketing",
+    "cities": [
+      "Unspecified"
+    ],
+    "note": "College onboarding and student registrations are outreach marketing. Local visits are required when needed, so pure Remote is incomplete.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1797033",
+    "inputFingerprint": "8843a2a39f35bd6b59a7b4b6f67b33b1530789426388f3178b84c5e891ae21be",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Campus brand promotion and student engagement; the source explicitly marks work from home.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1808428",
+    "inputFingerprint": "a27ade33fac92936b84d9ee2ac0c060006ccb499fa1bc4096f9b397befa01498",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "HR",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Recruitment, screening and onboarding are the real duties despite an AI-company description; source marks work from home.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "internshala-3324234",
+    "inputFingerprint": "1d95653fb32cbac18bec4a9709bc9342075d64d1a6486b4cbdc5a59bf09f8021",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Mumbai"
+    ],
+    "note": "Outbound prospect calls, lead follow-ups and calling targets; Mumbai in-office listing.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1811854",
+    "inputFingerprint": "0da68333fe4e9bbee45ee15c383e9fe48c0ca128eb3dc8ea54b2ae38ce24334a",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Remote"
+    ],
+    "note": "SME prospect relationships, demonstrations and qualified investor leads; explicitly work from home.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1805193",
+    "inputFingerprint": "9940cdd95f0b3e78b462c5ac2cc8a684e75cc070941d64210a3da49000d6df89",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Campus campaigns, student promotions and brand representation; source work-from-home field.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1803276",
+    "inputFingerprint": "0a5f9b4d2d9ce19f5b24447938d3a5868f1403c8967f02c974f7b9f8ce17dbc4",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Research & Science",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Policy literature review, briefs and analytical writing; explicit remote position.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1806963",
+    "inputFingerprint": "e0730fad5cb9b18c1f7332d2a4869b380459a6b312e2dc21e95f193ae7acdc44",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Bengaluru",
+      "Coimbatore",
+      "Madurai",
+      "Nellore",
+      "Pune"
+    ],
+    "note": "School-financing sales and local field visits; all five cities are listed in source metadata.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1807194",
+    "inputFingerprint": "bc789b03544837cc2d055e3a5e918658f2ddd8c66eaacfdcba65fa94e8e73ad3",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Design & Creative",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Wireframes, interfaces and design systems; source work-from-home field.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1808898",
+    "inputFingerprint": "1693e3cd09ac5125905c376ea6711248862c1a63343a354612c24bdbb7c2d46e",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Design & Creative",
+    "cities": [
+      "Bengaluru",
+      "Hosur"
+    ],
+    "note": "Brand systems, visual assets and print design dominate; both office locations are explicitly listed.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "internshala-3330288",
+    "inputFingerprint": "13176e49fec2813bd31ed6cd970ad2262f3b86b9dd87c425adc99401af4d6a73",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Design & Creative",
+    "cities": [
+      "Mumbai"
+    ],
+    "note": "Short-form video editing and motion graphics; Mumbai-only in-office eligibility.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1794483",
+    "inputFingerprint": "960994931a43d41a3e769192f869c6e3b980cea0998646cd7058619103c4fb5f",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Data & AI",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Business dashboards, reporting and trend analysis; explicitly a work-from-home analytics internship.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1797258",
+    "inputFingerprint": "3c884281b874a6d24bd3b696bc69fa2fefe6abe80f904affc11350b5734e890c",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Ahmedabad",
+      "Kolkata",
+      "Mumbai",
+      "Navi Mumbai",
+      "Delhi",
+      "Pune",
+      "Thane"
+    ],
+    "note": "Channel partner development and B2B sales; source metadata supplies all seven locations.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1806812",
+    "inputFingerprint": "c3ec0d9a6cc5aa997d04da2d1552e952309cca99d06751a4dc63da7723d5e378",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Software & IT",
+    "cities": [
+      "Gurugram"
+    ],
+    "note": "React interfaces, Node APIs and database work; explicitly on-site in Gurgaon.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1807619",
+    "inputFingerprint": "e40fa95d260c08b2b8e749d4cc30252243c2a437014ad90a64bc8d303ab27f22",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Course sales, lead conversion and enrolment targets; source work-from-home field.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "internshala-3319809",
+    "inputFingerprint": "46a0de92c03deb8295fbc2f8345f5bd33a609da3c265fdb96bf57f892f4703d7",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Bengaluru"
+    ],
+    "note": "Customer engagement, offers and turnover growth in retail; Bangalore in-office listing.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1801310",
+    "inputFingerprint": "30fdea58bac07a1eef992b95b1669f83989616a3f32ff2cf28e6fb08f7d26ef4",
+    "roleVerdict": "correct",
+    "locationVerdict": "ambiguous",
+    "jointVerdict": "ambiguous",
+    "role": "Marketing",
+    "cities": null,
+    "note": "Campus promotions are marketing. Structured metadata says hybrid in two cities, while the prose calls it remote.",
+    "date": "2026-11-16",
+    "modeConflict": true
+  },
+  {
+    "id": "unstop-1806921",
+    "inputFingerprint": "4ebcf87207fea5bfc2113fe3bfecfa3f45fad373e5947f808f7de6586a892e40",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "HR",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Recruitment, employee records and onboarding; explicitly fully remote across India.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1798103",
+    "inputFingerprint": "7675f037682b6ce7cc4957746b1da55c32464da914c9612662fedafbc9303d23",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Finance",
+    "cities": [
+      "Delhi"
+    ],
+    "note": "Accounting transactions and BUSY software make this Finance, not client-sales account management; Delhi office.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1811669",
+    "inputFingerprint": "fc6324912a1fe8939a5f8691fdf912c97ce1cffa062e603cfb2b5ef29aeedca2",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Design & Creative",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Video editing, motion graphics and storytelling; source work-from-home field.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1809153",
+    "inputFingerprint": "129f57e47fce2f3e731bd217e050d63a44d11896ca434098a136c5b73bd3f5e3",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Social strategy, engagement and brand campaigns dominate; source work-from-home field.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1807128",
+    "inputFingerprint": "cd2f568bd2fd2fcf8b4f59cb31e8b1f1052dcc15288b7e3c4d287c59ee6a3e8e",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Operations",
+    "cities": [
+      "Nashik"
+    ],
+    "note": "Order coordination, service records and routine operations; explicitly in-office in Nashik.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1804519",
+    "inputFingerprint": "6ddfccec13d6ca3d21f6bebc08285a2dbaf435296a1d0c64ced0db24e9157d3b",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Bengaluru"
+    ],
+    "note": "Property leads, prospect follow-ups and sales targets; Bangalore location.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1794181",
+    "inputFingerprint": "a5581e7f885a7354adc42d3df8d5d3866eb997d7f0352e27217284b761a4ff92",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Hyderabad"
+    ],
+    "note": "SEO content, rankings and organic acquisition; explicitly Hyderabad office.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "internshala-3323377",
+    "inputFingerprint": "ebe3ccf3c5e982f36bbf65b8414e824e6f8dcb2d0e9aa363885ec08156ecd570",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Operations",
+    "cities": [
+      "Noida"
+    ],
+    "note": "Inbound customer queries, product assistance and service records; Noida-only in-office eligibility.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1806808",
+    "inputFingerprint": "79a8bd90574709b7a0aebccae44c0d41b398c8ab01f9e48b9a2ad22ea7197e58",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Operations",
+    "cities": [
+      "Mumbai"
+    ],
+    "note": "Product requirements and cross-team delivery fit Operations as a broad fallback because the taxonomy has no Product category; Borivali is within Mumbai.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1798585",
+    "inputFingerprint": "78eb00fbbadc534841c9f03041e9e488e2b24f729a2edc6ef1e550fa8deebb47",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Referral promotion, content and registration/activation campaigns; source work-from-home field.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1803883",
+    "inputFingerprint": "486943eaca33b84adf9b360a9381cfa8abfb194985cddf390e1ec1dfabfd5bc2",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Engineering",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Integrated circuits, RTL and physical verification are hardware engineering; source work-from-home field.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "internshala-3332049",
+    "inputFingerprint": "ed7f00eec4422fcb5281874ea5cc2bdb9594562b7d81755d34bd40b295b067bf",
+    "roleVerdict": "ambiguous",
+    "locationVerdict": "correct",
+    "jointVerdict": "ambiguous",
+    "role": null,
+    "cities": [
+      "Jaipur"
+    ],
+    "note": "Academic-topic research and writing conflict with the project-management title and tool list; the primary role is ambiguous.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1808045",
+    "inputFingerprint": "35063f10d11b493a191a0a7604368910d6ceaf83283950d3a9f3a7e2bb2fb1f6",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Data & AI",
+    "cities": [
+      "Remote"
+    ],
+    "note": "AI/ML model development and experimentation; source work-from-home field.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1794310",
+    "inputFingerprint": "44d9d75c4b36e194dc46693426c38d227363367ae967a75076ba08af830ca242",
+    "roleVerdict": "correct",
+    "locationVerdict": "ambiguous",
+    "jointVerdict": "ambiguous",
+    "role": "Design & Creative",
+    "cities": null,
+    "note": "Video editing and visual content are creative work. Metadata says hybrid/Bangalore Urban, but prose twice describes remote work.",
+    "date": "2026-11-16",
+    "modeConflict": true
+  },
+  {
+    "id": "unstop-1806047",
+    "inputFingerprint": "ee9d9852db0f4cee604a8d2f9467227f309d6bf31be70b53fa62e868943dd662",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Brand campaigns, content and market research; source work-from-home field.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "internshala-3332042",
+    "inputFingerprint": "a4402e2620a1b7fea661033ee75943c54099c62066afbab38b1351e7fa76c730",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Jaipur"
+    ],
+    "note": "Client lead generation and sales proposals; Jaipur-only in-office eligibility.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1807617",
+    "inputFingerprint": "f1236b6967185e9f72512c050893ea7b92287f1c329cd39ea63d8996141025dd",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Social campaigns, marketing design and campaign analysis; explicitly remote team.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1796343",
+    "inputFingerprint": "258e9de695c698cdd9098ba300c53164444b5e620fb95a3b03934caaac6e5707",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Kolkata"
+    ],
+    "note": "B2B marketing, digital campaigns and branding; explicitly Kolkata office.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1812365",
+    "inputFingerprint": "d66b70b649f554dc8f705c29432b0fb518b3c57801ad4a3b67d6a24c63abefbc",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Operations",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Project coordination, timelines and research delivery dominate; explicitly online/remote.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1780789",
+    "inputFingerprint": "d6b6002179dcb49c67078be348843c0b5a86b350f98715c14fe0c2125dcb7f84",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "HR",
+    "cities": [
+      "Indore"
+    ],
+    "note": "Recruitment, onboarding and employee records; explicitly Indore office.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1809159",
+    "inputFingerprint": "6f83c4a21bb808460641e4274d3e4d5630f95c0a2a54452b5ccc8a87d7a4647c",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Hyderabad"
+    ],
+    "note": "Partner leads and sales-channel growth; hybrid role requires living near Hyderabad.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1793116",
+    "inputFingerprint": "5d1cb7d29682ff6fd6057e021e0641230b81668a6cd39aec0c5f7fd46cd843d4",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Delhi"
+    ],
+    "note": "Social content, posting and audience engagement; explicitly New Delhi office.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1804516",
+    "inputFingerprint": "4e11db3d5f98bbd65fa4b781778130a4c8be207418b9e148d28eae4e39917b9e",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Remote"
+    ],
+    "note": "Brand content strategy, social campaigns and engagement; explicitly full-time remote.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1808048",
+    "inputFingerprint": "810e085f8c6f199cfac5d9ed9f6def80afd0a67c6a0503c7c80bafb60ef98bd4",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Marketing",
+    "cities": [
+      "Pune"
+    ],
+    "note": "Social calendars, captions and campaign measurement; Pune is consistent even though hybrid metadata and office prose conflict.",
+    "date": "2026-11-16",
+    "modeConflict": true
+  },
+  {
+    "id": "internshala-3320277",
+    "inputFingerprint": "7ec6d0a439ed1d77678e2d4ed8d53ee810e6ff25453530b3e66fa2d56e41f90a",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "HR",
+    "cities": [
+      "Chennai"
+    ],
+    "note": "Recruitment calls, interview scheduling and hiring pipelines; Chennai-only in-office eligibility.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  },
+  {
+    "id": "unstop-1808311",
+    "inputFingerprint": "6cebf4a19c777b6969b264767a174bed31863535d0e1a39669b127c1e9200661",
+    "roleVerdict": "correct",
+    "locationVerdict": "correct",
+    "jointVerdict": "correct",
+    "role": "Sales & Business",
+    "cities": [
+      "Bengaluru"
+    ],
+    "note": "Inside-sales pipeline and prospect follow-ups; Bangalore-based role.",
+    "date": "2026-11-16",
+    "modeConflict": false
+  }
+]
