@@ -1,0 +1,12 @@
+**/node_modules/
+**/dist/
+**/.vercel/
+**/.wrangler/
+**/.sites-runtime/
+**/.next/
+**/.vinext/
+**/.env*
+**/.dev.vars*
+**/.appdeploy
+**/*.pem
+**/*.tsbuildinfo
