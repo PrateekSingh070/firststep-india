@@ -335,6 +335,7 @@ export default function App() {
         ),
     [data, filters, view, saved, onlyMatches, skillsText, sort, matchMap],
   );
+  const selectedMatches = selected ? skillMatches(selected, skills) : [];
   const comparisonJobs = comparison
     .map((id) => jobs.find((j: Job) => j.id === id))
     .filter(Boolean) as Job[];
@@ -835,6 +836,7 @@ export default function App() {
                   <Search size={19} />
                   <input
                     aria-label="Search jobs"
+                  maxLength={250}
                     value={filters.q}
                     onChange={(e) => updateFilters({ q: e.target.value })}
                     placeholder="Search roles, companies, or skills…"
@@ -1353,11 +1355,11 @@ export default function App() {
               <Target size={17} />
               <div>
                 <strong>
-                  {(matchMap[selected.id] || []).length} of your {skills.length}{' '}
+                  {selectedMatches.length} of your {skills.length}{' '}
                   skill terms appear in this listing
                 </strong>
                 <p>
-                  {(matchMap[selected.id] || []).join(', ') ||
+                  {selectedMatches.join(', ') ||
                     'Try related terms, or check the full source description.'}
                 </p>
                 <small>
