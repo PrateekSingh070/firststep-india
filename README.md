@@ -12,7 +12,17 @@ GitHub Actions runs web regression tests, type checks, the production build, col
 
 ## Tagging quality audit
 
-A reproducible 50-post self-audit found 48 clearly correct role tags, 47 clearly correct location tag sets, and 45 posts with both clearly correct. Ambiguous cases are counted separately. Actual cloud-task cost per 1,000 is not instrumented; the report separates that gap from an illustrative API token budget. [Read the complete audit](docs/tagging-audit-2026-11-16.md).
+**Latest source-by-source AI self-review: 19 November 2026, 50 posts sampled from 347 active listings. This is not independent human validation.**
+
+| Measure | Strict agreement |
+| --- | ---: |
+| Role category | **48/50 — 96%** |
+| City/location set | **46/50 — 92%** |
+| Both together | **44/50 — 88%** |
+| Actual cloud-task cost per 1,000 | **Unmeasured** |
+| Hypothetical separate API visible-token subtotal per 1,000 new annotations | **$0.093412 ≈ $0.09** |
+
+Strict scores count ambiguities and two normalization-only differences as non-matches. One role mismatch reflects a source changing after collection. The cost estimate is not measured spend or an all-in price. [Complete latest report](docs/tagging-audit-2026-11-19.md) · [All 50 decisions and source links](docs/audits/2026-11-19/reviewed-posts.csv) · [Cost calculation](docs/audits/2026-11-19/cost-estimate.json) · [Original 16 November baseline](docs/tagging-audit-2026-11-16.md).
 
 ## Repository layout
 

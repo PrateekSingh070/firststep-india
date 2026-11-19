@@ -1,0 +1,2265 @@
+{
+  "date": "2026-11-19",
+  "reviewer": "Codex AI self-review; not independent human validation",
+  "sampling": "First 50 IDs sorted by SHA-256(seed + | + ID), no replacement",
+  "seed": "firststep-tag-audit-2026-11-19-v1",
+  "population_size": 347,
+  "population_ids": [
+    "internshala-3279305",
+    "internshala-3289274",
+    "internshala-3317168",
+    "internshala-3317575",
+    "internshala-3318820",
+    "internshala-3319186",
+    "internshala-3319797",
+    "internshala-3319809",
+    "internshala-3321005",
+    "internshala-3321876",
+    "internshala-3323377",
+    "internshala-3323438",
+    "internshala-3323499",
+    "internshala-3323579",
+    "internshala-3323589",
+    "internshala-3324234",
+    "internshala-3324540",
+    "internshala-3325019",
+    "internshala-3325367",
+    "internshala-3326539",
+    "internshala-3326918",
+    "internshala-3326958",
+    "internshala-3326977",
+    "internshala-3327546",
+    "internshala-3328023",
+    "internshala-3328362",
+    "internshala-3328895",
+    "internshala-3329861",
+    "internshala-3330011",
+    "internshala-3330684",
+    "internshala-3330809",
+    "internshala-3332768",
+    "internshala-3332835",
+    "internshala-3333532",
+    "internshala-3333547",
+    "internshala-3333833",
+    "internshala-3334302",
+    "internshala-3335198",
+    "internshala-3335302",
+    "internshala-3335307",
+    "internshala-3335330",
+    "internshala-3335422",
+    "internshala-3335601",
+    "internshala-3335807",
+    "internshala-3336051",
+    "internshala-3336092",
+    "internshala-3336306",
+    "internshala-3336321",
+    "internshala-3336565",
+    "unstop-1761853",
+    "unstop-1763593",
+    "unstop-1780744",
+    "unstop-1780789",
+    "unstop-1782320",
+    "unstop-1785951",
+    "unstop-1795657",
+    "unstop-1796296",
+    "unstop-1796343",
+    "unstop-1796348",
+    "unstop-1796351",
+    "unstop-1796483",
+    "unstop-1796516",
+    "unstop-1796949",
+    "unstop-1797851",
+    "unstop-1798103",
+    "unstop-1798207",
+    "unstop-1798303",
+    "unstop-1798523",
+    "unstop-1798580",
+    "unstop-1798585",
+    "unstop-1799057",
+    "unstop-1799476",
+    "unstop-1799795",
+    "unstop-1799879",
+    "unstop-1801480",
+    "unstop-1801556",
+    "unstop-1801734",
+    "unstop-1801768",
+    "unstop-1802252",
+    "unstop-1802253",
+    "unstop-1802398",
+    "unstop-1802399",
+    "unstop-1802475",
+    "unstop-1802578",
+    "unstop-1802579",
+    "unstop-1802713",
+    "unstop-1802829",
+    "unstop-1803276",
+    "unstop-1803810",
+    "unstop-1803820",
+    "unstop-1803824",
+    "unstop-1803890",
+    "unstop-1803916",
+    "unstop-1804225",
+    "unstop-1804231",
+    "unstop-1804349",
+    "unstop-1804354",
+    "unstop-1804519",
+    "unstop-1804527",
+    "unstop-1804775",
+    "unstop-1805242",
+    "unstop-1805247",
+    "unstop-1805337",
+    "unstop-1805370",
+    "unstop-1805715",
+    "unstop-1805805",
+    "unstop-1805951",
+    "unstop-1805959",
+    "unstop-1805964",
+    "unstop-1806161",
+    "unstop-1806228",
+    "unstop-1806458",
+    "unstop-1806599",
+    "unstop-1806601",
+    "unstop-1806676",
+    "unstop-1806720",
+    "unstop-1806742",
+    "unstop-1806745",
+    "unstop-1806752",
+    "unstop-1806766",
+    "unstop-1806789",
+    "unstop-1806808",
+    "unstop-1806812",
+    "unstop-1806921",
+    "unstop-1806931",
+    "unstop-1806963",
+    "unstop-1807024",
+    "unstop-1807028",
+    "unstop-1807072",
+    "unstop-1807128",
+    "unstop-1807144",
+    "unstop-1807149",
+    "unstop-1807189",
+    "unstop-1807268",
+    "unstop-1807269",
+    "unstop-1807526",
+    "unstop-1807607",
+    "unstop-1807611",
+    "unstop-1807617",
+    "unstop-1807619",
+    "unstop-1807649",
+    "unstop-1807747",
+    "unstop-1807952",
+    "unstop-1808016",
+    "unstop-1808028",
+    "unstop-1808033",
+    "unstop-1808037",
+    "unstop-1808048",
+    "unstop-1808056",
+    "unstop-1808061",
+    "unstop-1808095",
+    "unstop-1808105",
+    "unstop-1808111",
+    "unstop-1808149",
+    "unstop-1808311",
+    "unstop-1808312",
+    "unstop-1808428",
+    "unstop-1808440",
+    "unstop-1808526",
+    "unstop-1808606",
+    "unstop-1808608",
+    "unstop-1808629",
+    "unstop-1808707",
+    "unstop-1808711",
+    "unstop-1808717",
+    "unstop-1808718",
+    "unstop-1808898",
+    "unstop-1808941",
+    "unstop-1808983",
+    "unstop-1809142",
+    "unstop-1809153",
+    "unstop-1809159",
+    "unstop-1809164",
+    "unstop-1809488",
+    "unstop-1809494",
+    "unstop-1809600",
+    "unstop-1809633",
+    "unstop-1809804",
+    "unstop-1810011",
+    "unstop-1810078",
+    "unstop-1810152",
+    "unstop-1810196",
+    "unstop-1810224",
+    "unstop-1810229",
+    "unstop-1810351",
+    "unstop-1810367",
+    "unstop-1810371",
+    "unstop-1810372",
+    "unstop-1810417",
+    "unstop-1810520",
+    "unstop-1810547",
+    "unstop-1810551",
+    "unstop-1810555",
+    "unstop-1810598",
+    "unstop-1810604",
+    "unstop-1810718",
+    "unstop-1810771",
+    "unstop-1810776",
+    "unstop-1810778",
+    "unstop-1810780",
+    "unstop-1810789",
+    "unstop-1810844",
+    "unstop-1810873",
+    "unstop-1811123",
+    "unstop-1811124",
+    "unstop-1811167",
+    "unstop-1811168",
+    "unstop-1811170",
+    "unstop-1811171",
+    "unstop-1811307",
+    "unstop-1811350",
+    "unstop-1811485",
+    "unstop-1811492",
+    "unstop-1811669",
+    "unstop-1811803",
+    "unstop-1811837",
+    "unstop-1811854",
+    "unstop-1811860",
+    "unstop-1811934",
+    "unstop-1812244",
+    "unstop-1812324",
+    "unstop-1812339",
+    "unstop-1812365",
+    "unstop-1812366",
+    "unstop-1812409",
+    "unstop-1812709",
+    "unstop-1812715",
+    "unstop-1812796",
+    "unstop-1812798",
+    "unstop-1812800",
+    "unstop-1812980",
+    "unstop-1812981",
+    "unstop-1812989",
+    "unstop-1812990",
+    "unstop-1812992",
+    "unstop-1812997",
+    "unstop-1813005",
+    "unstop-1813042",
+    "unstop-1813053",
+    "unstop-1813098",
+    "unstop-1813139",
+    "unstop-1813141",
+    "unstop-1813142",
+    "unstop-1813152",
+    "unstop-1813245",
+    "unstop-1813251",
+    "unstop-1813358",
+    "unstop-1813365",
+    "unstop-1813373",
+    "unstop-1813458",
+    "unstop-1813519",
+    "unstop-1813520",
+    "unstop-1813527",
+    "unstop-1813534",
+    "unstop-1813611",
+    "unstop-1813788",
+    "unstop-1813964",
+    "unstop-1813976",
+    "unstop-1813998",
+    "unstop-1814001",
+    "unstop-1814110",
+    "unstop-1814180",
+    "unstop-1814226",
+    "unstop-1814230",
+    "unstop-1814239",
+    "unstop-1814247",
+    "unstop-1814250",
+    "unstop-1814271",
+    "unstop-1814275",
+    "unstop-1814391",
+    "unstop-1814393",
+    "unstop-1814576",
+    "unstop-1814577",
+    "unstop-1815228",
+    "unstop-1815230",
+    "unstop-1815480",
+    "unstop-1815484",
+    "unstop-1815522",
+    "unstop-1815558",
+    "unstop-1815676",
+    "unstop-1815692",
+    "unstop-1815740",
+    "unstop-1815750",
+    "unstop-1815762",
+    "unstop-1815763",
+    "unstop-1815862",
+    "unstop-1815867",
+    "unstop-1815890",
+    "unstop-1815899",
+    "unstop-1815939",
+    "unstop-1816011",
+    "unstop-1816012",
+    "unstop-1816020",
+    "unstop-1816025",
+    "unstop-1816035",
+    "unstop-1816126",
+    "unstop-1816128",
+    "unstop-1816129",
+    "unstop-1816224",
+    "unstop-1816255",
+    "unstop-1816264",
+    "unstop-1816265",
+    "unstop-1816383",
+    "unstop-1816475",
+    "unstop-1816477",
+    "unstop-1816508",
+    "unstop-1816518",
+    "unstop-1816712",
+    "unstop-1816747",
+    "unstop-1816752",
+    "unstop-1816903",
+    "unstop-1817030",
+    "unstop-1817164",
+    "unstop-1817238",
+    "unstop-1817315",
+    "unstop-1817388",
+    "unstop-1817401",
+    "unstop-1817410",
+    "unstop-1817449",
+    "unstop-1817473",
+    "unstop-1817474",
+    "unstop-1817494",
+    "unstop-1817498",
+    "unstop-1817628",
+    "unstop-1817655",
+    "unstop-1817656",
+    "unstop-1817671",
+    "unstop-1817673",
+    "unstop-1817690",
+    "unstop-1817693",
+    "unstop-1817761",
+    "unstop-1817819",
+    "unstop-1817821",
+    "unstop-1817823",
+    "unstop-1817832",
+    "unstop-1817839",
+    "unstop-1817871",
+    "unstop-1817943",
+    "unstop-1817961",
+    "unstop-1818029",
+    "unstop-1818066",
+    "unstop-1818218",
+    "unstop-1818224",
+    "unstop-1818258",
+    "unstop-1818297",
+    "unstop-1818330",
+    "unstop-1818336"
+  ],
+  "snapshot_run_id": "3ec15a16-a4f5-4d83-9f0e-5ab8341092ed",
+  "snapshot_updated_at": "2026-11-19T01:28:13.624Z",
+  "snapshot_file_sha256": "4a9e2f4c70589e28d2d8f1384b9ec6e1ca84793f8d8ace01fea4c6738bbc376d",
+  "source_counts": {
+    "Unstop": 42,
+    "Internshala": 8
+  },
+  "metrics": {
+    "role": {
+      "correct": 48,
+      "wrong": 1,
+      "ambiguous": 1
+    },
+    "location": {
+      "correct": 46,
+      "normalization_mismatch": 2,
+      "ambiguous": 1,
+      "wrong": 1
+    },
+    "joint": {
+      "correct": 44,
+      "normalization_mismatch": 2,
+      "wrong": 2,
+      "ambiguous": 2
+    }
+  },
+  "rows": [
+    {
+      "number": 1,
+      "id": "unstop-1795657",
+      "title": "SEO Internship",
+      "company": "DigiCircal",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/seo-internship-digicircal-1795657",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Noida"
+      ],
+      "reviewed_locations": [
+        "Noida"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "SEO keyword research, backlinks and rankings are marketing duties; office in Noida.",
+      "fresh_source_title": "SEO Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.636015+00:00",
+      "source_locations": [
+        {
+          "id": 1901576,
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "country": "India",
+          "addressable_id": 1795657,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "DigiCircal is hiring for SEO Intern About the Company DigiCircal is seeking an SEO Intern to support practical search optimization initiatives across live",
+      "source_text_sha256": "936900a72f0f0162aab7569c09bc863be7614eef00cd0b5ad478c51ef86dace1",
+      "snapshot_description_sha256": "936900a72f0f0162aab7569c09bc863be7614eef00cd0b5ad478c51ef86dace1",
+      "existing_review_status": null
+    },
+    {
+      "number": 2,
+      "id": "unstop-1817673",
+      "title": "Sales & Business Development Internship",
+      "company": "Yodha Foods",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/sales-business-development-internship-yodha-foods-1817673",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Bengaluru"
+      ],
+      "reviewed_locations": [
+        "Bengaluru"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Retail prospecting, partner onboarding and lead conversion dominate; Bangalore normalizes to Bengaluru. Field visits are explicit.",
+      "fresh_source_title": "Sales & Business Development Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.636015+00:00",
+      "source_locations": [
+        {
+          "id": 1915560,
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "addressable_id": 1817673,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "hybrid",
+      "source_text_excerpt": "Yodha Foods is hiring for Sales & Business Development Intern About the Company Yodha Foods is an FMCG food brand building retail reach",
+      "source_text_sha256": "91b2666e02cdd1128b5b318c8f3ed99dfb921ec0f6cf62f7a1550a36ff939709",
+      "snapshot_description_sha256": "91b2666e02cdd1128b5b318c8f3ed99dfb921ec0f6cf62f7a1550a36ff939709",
+      "existing_review_status": null
+    },
+    {
+      "number": 3,
+      "id": "unstop-1810598",
+      "title": "Architectural Internship",
+      "company": "Metis Practice",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/architectural-internship-metis-practice-1810598",
+      "published_role": "Engineering",
+      "reviewed_role": "Engineering",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Mumbai"
+      ],
+      "reviewed_locations": [
+        "Mumbai"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Architectural drawings, layouts and design documentation fit the broad Engineering category; full-time Mumbai office.",
+      "fresh_source_title": "Architectural Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1908216,
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "addressable_id": 1810598,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "About the Company Metis is inviting architecture students, recent graduates, and early-career architects to contribute to architecture and interior design projects in Mumbai.",
+      "source_text_sha256": "8a85aff455bed5e1a1a871e96f2cce7677bdec3ffc1101cf3752b7d54fab34be",
+      "snapshot_description_sha256": "8a85aff455bed5e1a1a871e96f2cce7677bdec3ffc1101cf3752b7d54fab34be",
+      "existing_review_status": null
+    },
+    {
+      "number": 4,
+      "id": "internshala-3321876",
+      "title": "Photography",
+      "company": "PharmEasy",
+      "source": "Internshala",
+      "source_url": "https://internshala.com/internship/detail/photography-internship-in-bangalore-at-pharmeasy1792671360",
+      "published_role": "Design & Creative",
+      "reviewed_role": "Design & Creative",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Bengaluru"
+      ],
+      "reviewed_locations": [
+        "Bengaluru"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Product photography, lighting and retouching are creative work. Bangalore internship location, not the employer's nationwide delivery cities.",
+      "fresh_source_title": "Photography - Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh original Internshala JobPosting HTML",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "Karnataka"
+          }
+        }
+      ],
+      "source_mode": "INTERN, FULL_TIME",
+      "source_text_excerpt": "About the internship: Capture high-quality product photos for catalog and online listings. Set up and manage lighting, backgrounds, and other equipment for shoots.",
+      "source_text_sha256": "5891b8c77fd55f69785eb3457b2022587a27f154c05fe3c81855f77dc3ae2447",
+      "snapshot_description_sha256": "04c3be832ee17d6a3722d4a08ff3520983c6ef01b3caa150a8713f3350df9f3e",
+      "existing_review_status": null
+    },
+    {
+      "number": 5,
+      "id": "unstop-1816475",
+      "title": "Office of the CEO Internship (PR & Media Team) - Content Creators",
+      "company": "Encrypta IN",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/office-of-the-ceo-internship-encrypta-in-1816475",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Unspecified"
+      ],
+      "reviewed_locations": [
+        "Unspecified"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Content strategy, CEO branding, PR outreach and social media dominate. Hybrid is given without a city; do not infer a city or Remote.",
+      "fresh_source_title": "Office of the CEO Internship (PR & Media Team) - Content Creators",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [],
+      "source_mode": "hybrid",
+      "source_text_excerpt": "We are looking for a creative, proactive, and communication-oriented individual to join the Office of the CEO as a Content Creator, Media &",
+      "source_text_sha256": "111ba623772ab46235d67954a763c3d033874ff6ec801c7d0f12e7e4f82e7811",
+      "snapshot_description_sha256": "111ba623772ab46235d67954a763c3d033874ff6ec801c7d0f12e7e4f82e7811",
+      "existing_review_status": null
+    },
+    {
+      "number": 6,
+      "id": "unstop-1813141",
+      "title": "SEO Internship",
+      "company": "Frisson Devhub",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/seo-internship-frisson-devhub-1813141",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Noida"
+      ],
+      "reviewed_locations": [
+        "Noida"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "SEO rankings, keywords and backlinks are marketing. Hybrid metadata specifies Noida without contrary location prose.",
+      "fresh_source_title": "SEO Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1911760,
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "country": "India",
+          "addressable_id": 1813141,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "hybrid",
+      "source_text_excerpt": "SEO Intern – Turn Searches into Growth! Love exploring how Google works? Interested in making websites rank higher and reach the right audience?",
+      "source_text_sha256": "4a83e58a91140bc35b14c25c1a005c75ea902d5a62b7998c1f08837b64df6ae8",
+      "snapshot_description_sha256": "4a83e58a91140bc35b14c25c1a005c75ea902d5a62b7998c1f08837b64df6ae8",
+      "existing_review_status": null
+    },
+    {
+      "number": 7,
+      "id": "unstop-1807649",
+      "title": "Sales & Marketing Internship",
+      "company": "Trisol Red",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/sales-marketing-internship-trisol-red-1807649",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Noida"
+      ],
+      "reviewed_locations": [
+        "Noida"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Customer prospecting and sales follow-ups accompany campaign support in real estate sales; Noida is explicit.",
+      "fresh_source_title": "Sales & Marketing Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1905546,
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "country": "India",
+          "addressable_id": 1807649,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "Trisol Red is hiring for Sales & Marketing Intern About the Company Trisol Red operates in the real estate industry and is seeking",
+      "source_text_sha256": "ab67ea675604cebeba6dbae5a28462b6b4606c2958ab41973d89de4a7ef79bf7",
+      "snapshot_description_sha256": "ab67ea675604cebeba6dbae5a28462b6b4606c2958ab41973d89de4a7ef79bf7",
+      "existing_review_status": null
+    },
+    {
+      "number": 8,
+      "id": "unstop-1814275",
+      "title": "Finance Internship",
+      "company": "Onex Solutions Pvt ltd.",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/finance-internship-onex-solutions-pvt-ltd-1814275",
+      "published_role": "Finance",
+      "reviewed_role": "Finance",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Kolkata"
+      ],
+      "reviewed_locations": [
+        "Kolkata"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Bookkeeping, invoices, reconciliation and financial reporting are finance duties; Kolkata metadata.",
+      "fresh_source_title": "Finance Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1912769,
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "country": "India",
+          "addressable_id": 1814275,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "Roles & Responsibilities Assist with day-to-day accounting and bookkeeping activities. Maintain invoices, bills, vouchers and financial records. Track client payments, outstanding dues and",
+      "source_text_sha256": "74916402dd71377be8ba83340b6ef7a13caa8f774d5fa4e383d890c364a0ece0",
+      "snapshot_description_sha256": "74916402dd71377be8ba83340b6ef7a13caa8f774d5fa4e383d890c364a0ece0",
+      "existing_review_status": null
+    },
+    {
+      "number": 9,
+      "id": "unstop-1816025",
+      "title": "Data Engineering Internship",
+      "company": "Springer Capital",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/data-engineering-internship-springer-capital-1816025",
+      "published_role": "Data & AI",
+      "reviewed_role": "Data & AI",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Data pipeline development, transformations and data quality are data engineering; WFH and remote prose agree.",
+      "fresh_source_title": "Data Engineering Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Roles and Responsibilities: Assist with organizing and preparing data for use in engineering workflows. Support the development and maintenance of data pipelines. Help",
+      "source_text_sha256": "ee13f5ade10aa7814444f328092a900fbc30141b625c9436b8aa18201a92e985",
+      "snapshot_description_sha256": "ee13f5ade10aa7814444f328092a900fbc30141b625c9436b8aa18201a92e985",
+      "existing_review_status": null
+    },
+    {
+      "number": 10,
+      "id": "unstop-1807607",
+      "title": "Graphic Designer Internship",
+      "company": "Cityreach",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/graphic-designer-internship-cityreach-1807607",
+      "published_role": "Design & Creative",
+      "reviewed_role": "Design & Creative",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Instagram graphic asset design dominates, rather than campaign management. WFH and remote prose agree.",
+      "fresh_source_title": "Graphic Designer Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Cityreach is hiring for Graphic Designer Intern About the Company Cityreach is seeking a creative Graphic Designer Intern to support its social media",
+      "source_text_sha256": "597b99e901375462d4afdc6ad4bf783a53b8636d1ac89b18c0eb9b50a2df5a5e",
+      "snapshot_description_sha256": "597b99e901375462d4afdc6ad4bf783a53b8636d1ac89b18c0eb9b50a2df5a5e",
+      "existing_review_status": null
+    },
+    {
+      "number": 11,
+      "id": "unstop-1810780",
+      "title": "HR Internship",
+      "company": "Fam Job Consultancy Private Limited",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/hr-internship-fam-job-consultancy-private-limited-1810780",
+      "published_role": "HR",
+      "reviewed_role": "HR",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Candidate sourcing, recruitment coordination and onboarding are HR. Fully remote prose agrees with WFH metadata.",
+      "fresh_source_title": "HR Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "FAM JOB CONSULTANCY PRIVATE LIMITED is hiring for HR Intern About the Company FAM JOB CONSULTANCY PRIVATE LIMITED provides recruitment and staffing services",
+      "source_text_sha256": "644beb8a41296744166a15fccc45734e1b7fc091efe7cddb1c90a519f81831f7",
+      "snapshot_description_sha256": "bdc3075690c1cdfa673180984b22851003ead50ce3a074755f267b8cf82d6d3c",
+      "existing_review_status": null
+    },
+    {
+      "number": 12,
+      "id": "unstop-1805337",
+      "title": "Graphic Designer Internship",
+      "company": "Sales Sunday",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/graphic-designer-intern-sales-sunday-1805337",
+      "published_role": "Design & Creative",
+      "reviewed_role": "Design & Creative",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Navi Mumbai"
+      ],
+      "reviewed_locations": [
+        "Navi Mumbai"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Graphics and video asset creation are creative duties. Hybrid base in Navi Mumbai is explicit; remote work is also available, so this is not purely remote.",
+      "fresh_source_title": "Graphic Designer Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1903152,
+          "city": "Navi Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "addressable_id": 1805337,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "hybrid",
+      "source_text_excerpt": "Founder is seeking a creative Graphic Designer Intern to support visual communication for a SaaS software business. This internship is suited to someone",
+      "source_text_sha256": "ffa439e93ac3c772027800a0ce511d02b003d5c1c55b0667a31e19ad1adff875",
+      "snapshot_description_sha256": "ffa439e93ac3c772027800a0ce511d02b003d5c1c55b0667a31e19ad1adff875",
+      "existing_review_status": null
+    },
+    {
+      "number": 13,
+      "id": "unstop-1810371",
+      "title": "Customer Support Internship",
+      "company": "Mom Pharmacy",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/customer-support-internship-mom-pharmacy-1810371",
+      "published_role": "Operations",
+      "reviewed_role": "Operations",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Hyderabad"
+      ],
+      "reviewed_locations": [
+        "Hyderabad"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Customer queries, issue resolution and support records fit Operations in the taxonomy; full-time Hyderabad presence required.",
+      "fresh_source_title": "Customer Support Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1907941,
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "country": "India",
+          "addressable_id": 1810371,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "About the Company Mom Pharmacy serves customers seeking convenient access to pharmacy products and support. The team is focused on making each customer",
+      "source_text_sha256": "a7c6284b31d9f59ef48cf02087b6a0532f975072dc345c729a54e7175edf0eca",
+      "snapshot_description_sha256": "a7c6284b31d9f59ef48cf02087b6a0532f975072dc345c729a54e7175edf0eca",
+      "existing_review_status": null
+    },
+    {
+      "number": 14,
+      "id": "unstop-1817656",
+      "title": "PPC Internship",
+      "company": "ROI Boosters",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/ppc-internship-roi-boosters-1817656",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Gurugram",
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "normalization_mismatch",
+      "joint_verdict": "normalization_mismatch",
+      "review_note": "Google/Meta paid campaigns and PPC optimization are marketing. WFH and repeated remote prose make Remote appropriate despite Gurgaon reference metadata.",
+      "fresh_source_title": "PPC Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1915519,
+          "city": "Gurgaon",
+          "state": "Haryana",
+          "country": "India",
+          "addressable_id": 1817656,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Work Type: Remote Shift Timing: 5:00 PM - 2:00 AM Stipend: ₹12,000/month Internship Duration: 6 Months Experience: Practical experience in PPC/Performance Marketing required",
+      "source_text_sha256": "3938c9e4b1f5a85fd54078aed52469928ba53ad1ebfde2ae8592164cbaf89a60",
+      "snapshot_description_sha256": "3938c9e4b1f5a85fd54078aed52469928ba53ad1ebfde2ae8592164cbaf89a60",
+      "existing_review_status": null
+    },
+    {
+      "number": 15,
+      "id": "unstop-1806963",
+      "title": "Sales Internship",
+      "company": "Varthana Finance Pvt. Ltd.",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/sales-internship-varthana-finance-pvt-ltd-1806963",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Bengaluru",
+        "Coimbatore",
+        "Madurai",
+        "Nellore",
+        "Pune"
+      ],
+      "reviewed_locations": [
+        "Bengaluru",
+        "Coimbatore",
+        "Madurai",
+        "Nellore",
+        "Pune"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Prospecting schools and explaining finance products is sales, not accounting or teaching. Retain all five field-placement cities.",
+      "fresh_source_title": "Sales Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1904991,
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "addressable_id": 1806963,
+          "addressable_type": "App\\Model\\Opportunity"
+        },
+        {
+          "id": 1904992,
+          "city": "Coimbatore",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "addressable_id": 1806963,
+          "addressable_type": "App\\Model\\Opportunity"
+        },
+        {
+          "id": 1904993,
+          "city": "Madurai",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "addressable_id": 1806963,
+          "addressable_type": "App\\Model\\Opportunity"
+        },
+        {
+          "id": 1904994,
+          "city": "Nellore",
+          "state": "Andhra Pradesh",
+          "country": "India",
+          "addressable_id": 1806963,
+          "addressable_type": "App\\Model\\Opportunity"
+        },
+        {
+          "id": 1904995,
+          "city": "Pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "addressable_id": 1806963,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "on_field",
+      "source_text_excerpt": "About the Company Varthana Finance Pvt. Ltd. is a finance organization focused on supporting affordable education in India. It works with affordable private",
+      "source_text_sha256": "f2b28198a0bb1937339567fd31e5a4d2976e31e9661012180febfaea4914cec1",
+      "snapshot_description_sha256": "97629f3242830f24217d89792508eb36ebe0d5bbed2489257898bae20cb5520b",
+      "existing_review_status": "reviewed"
+    },
+    {
+      "number": 16,
+      "id": "unstop-1806808",
+      "title": "Product Internship",
+      "company": "IFANOW",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/product-internship-ifanow-1806808",
+      "published_role": "Operations",
+      "reviewed_role": "Operations",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Mumbai"
+      ],
+      "reviewed_locations": [
+        "Mumbai"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Requirements, user feedback and cross-team product coordination fit Operations because Product is absent from the broad taxonomy. Borivali is within Mumbai, so collapse duplicates.",
+      "fresh_source_title": "Product Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1905305,
+          "city": "Borivali",
+          "state": "Maharashtra",
+          "country": "India",
+          "addressable_id": 1806808,
+          "addressable_type": "App\\Model\\Opportunity"
+        },
+        {
+          "id": 1905306,
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India",
+          "addressable_id": 1806808,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "About the Company IFANOW works in the SaaS space, building digital products designed to address customer and business needs. The team values thoughtful",
+      "source_text_sha256": "f2c6fdf7392f79e69aa8585c886a8fa18b5bbb403360e08a314a1dcda7976865",
+      "snapshot_description_sha256": "f2c6fdf7392f79e69aa8585c886a8fa18b5bbb403360e08a314a1dcda7976865",
+      "existing_review_status": "reviewed"
+    },
+    {
+      "number": 17,
+      "id": "unstop-1816264",
+      "title": "Digital Marketing Internship",
+      "company": "Axiora Global Solutions pvt ltd",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/digital-marketing-internship-axiora-global-solutions-pvt-ltd-1816264",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Campaigns, social media and promotional reporting dominate. WFH and explicit remote location agree; offline lead generation is mentioned without a mandated visit location.",
+      "fresh_source_title": "Digital Marketing Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Axiora Global Solutions Pvt. Ltd. is hiring for a Digital Marketing Intern We're Hiring – Digital Marketing Interns Company: Axiora Global Solutions Pvt.",
+      "source_text_sha256": "624be8abb100c27bd1bfc9c1da8e6f1738fbfee845fcc4d6ec3e2f63ffffbc46",
+      "snapshot_description_sha256": "624be8abb100c27bd1bfc9c1da8e6f1738fbfee845fcc4d6ec3e2f63ffffbc46",
+      "existing_review_status": null
+    },
+    {
+      "number": 18,
+      "id": "internshala-3318820",
+      "title": "Business Development (Sales)",
+      "company": "ARYAN SECURITY SERVICE",
+      "source": "Internshala",
+      "source_url": "https://internshala.com/internship/detail/business-development-sales-internship-in-bhopal-at-aryan-security-service1792570127",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Bhopal"
+      ],
+      "reviewed_locations": [
+        "Bhopal"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Prospecting, cold calls, proposals and customer meetings are sales duties; Bhopal office and local field visits are explicit.",
+      "fresh_source_title": "Business Development (Sales) - Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh original Internshala JobPosting HTML",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bhopal",
+            "addressRegion": "Madhya Pradesh"
+          }
+        }
+      ],
+      "source_mode": "INTERN, FULL_TIME",
+      "source_text_excerpt": "About the internship: Selected intern's day-to-day responsibilities include: 1. Support the business development team in generating and following up on private-sector opportunities for",
+      "source_text_sha256": "8a88470fa5bb775b7f596311e12680190b0b92ef7b638e2a06d2b901586720e8",
+      "snapshot_description_sha256": "657ea353eee866a3a1a1c2c26cd99732ce0a11fbde6663bea6b811f4970a0c2d",
+      "existing_review_status": null
+    },
+    {
+      "number": 19,
+      "id": "internshala-3317168",
+      "title": "City Operations & Supply Growth",
+      "company": "Uber",
+      "source": "Internshala",
+      "source_url": "https://internshala.com/internship/detail/city-operations-supply-growth-internship-in-bhopal-at-uber1792991819",
+      "published_role": "Operations",
+      "reviewed_role": "Operations",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Bhopal"
+      ],
+      "reviewed_locations": [
+        "Bhopal"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Driver onboarding, supply availability, vendor coordination and operational issue resolution dominate. Bhopal office and local visits are explicit.",
+      "fresh_source_title": "City Operations & Supply Growth - Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh original Internshala JobPosting HTML",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bhopal",
+            "addressRegion": "Madhya Pradesh"
+          }
+        }
+      ],
+      "source_mode": "INTERN, FULL_TIME",
+      "source_text_excerpt": "About the internship: Selected intern's day-to-day responsibilities include: 1. Support driver onboarding and supply acquisition for cab, auto, and bike taxi services. 2.",
+      "source_text_sha256": "8a9fe45d431de52a7f5b76a1620bd8fd0de9ba63b2685e41533d214c3f910c36",
+      "snapshot_description_sha256": "5575086e9b07edb3fd0ef4f949f678a45609a750f42b9cf9f6258c4336a365ee",
+      "existing_review_status": null
+    },
+    {
+      "number": 20,
+      "id": "unstop-1809804",
+      "title": "HR Internship",
+      "company": "Cravely Foods",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/hr-internship-cravely-foods-1809804",
+      "published_role": "HR",
+      "reviewed_role": "HR",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Recruitment screening, interviews and onboarding are HR duties. WFH metadata gives Remote, with no contrary presence requirement.",
+      "fresh_source_title": "HR Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "About Cravely Foods: Cravely Foods is an emerging FMCG food brand offering better-for-you snacks. We are looking for motivated individuals to join our",
+      "source_text_sha256": "17fb6cacb1b9e4bedc7d5c2360e289b5c3835b8fd6202ed880cfc6877da5fe88",
+      "snapshot_description_sha256": "17fb6cacb1b9e4bedc7d5c2360e289b5c3835b8fd6202ed880cfc6877da5fe88",
+      "existing_review_status": null
+    },
+    {
+      "number": 21,
+      "id": "unstop-1811837",
+      "title": "HR Internship (Recruitment & HR Operations)",
+      "company": "Open MNC",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/hr-internship-recruitment-hr-operations-open-mnc-1811837",
+      "published_role": "HR",
+      "reviewed_role": "HR",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Sourcing, screening, interviews and onboarding are HR; fully remote within India is explicit.",
+      "fresh_source_title": "HR Internship (Recruitment & HR Operations)",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "About the Company Open MNC is offering a remote Human Resources internship designed for freshers, college students, and candidates with 0–1 year of",
+      "source_text_sha256": "47f077d3ad203c0d579ca1432b100b96fb99c77e58b333b02ec4ec09738e9527",
+      "snapshot_description_sha256": "47f077d3ad203c0d579ca1432b100b96fb99c77e58b333b02ec4ec09738e9527",
+      "existing_review_status": null
+    },
+    {
+      "number": 22,
+      "id": "unstop-1810417",
+      "title": "Human Resource (HR) Intern",
+      "company": "Cognirex Solutions",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/human-resource-hr-internship-cognirex-solutions-1810417",
+      "published_role": "HR",
+      "reviewed_role": "Design & Creative",
+      "role_verdict": "wrong",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "wrong",
+      "review_note": "Current source title and duties are UI/UX wireframes, prototypes and interface layouts despite the HR slug. WFH metadata; no local presence requirement. Flag changed title/content when comparing snapshot.",
+      "fresh_source_title": "UI/UX Designer Intern",
+      "source_title_changed": true,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1916573,
+          "city": "Achalpur",
+          "state": "Maharashtra",
+          "country": "India",
+          "addressable_id": 1810417,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Cognirex Solutions is actively hiring for the role of UI/UX Designer Intern! About the Organization: Cognirex Solutions is offering a UI/UX design internship",
+      "source_text_sha256": "1e418e87752ec16811cb76004298f5a44d67f5fa97a611b3fe4063ae62a8ee92",
+      "snapshot_description_sha256": "50eff69c64785979a27844f24c6dab05927a073bfe416d2bfe0c36e54f6876a9",
+      "existing_review_status": null
+    },
+    {
+      "number": 23,
+      "id": "unstop-1813519",
+      "title": "Campus Ambassador",
+      "company": "Nexovate Private Limited",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/campus-ambassador-nexovate-private-limited-1813519",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": null,
+      "location_verdict": "ambiguous",
+      "joint_verdict": "ambiguous",
+      "review_note": "Campus promotion, outreach and engagement are marketing. WFH metadata coexists with responsibility for campus-level activities; whether those require physical campus presence is unclear, so location is ambiguous.",
+      "fresh_source_title": "Campus Ambassador",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Campus Ambassador – Roles & Responsibilities Roles and Responsibilities Represent the organization as a Campus Ambassador and act as a communication link between",
+      "source_text_sha256": "eb96e9750d3dd83e9a8432384cf6d2e0997a2655d2990390f8493f4a97188e6f",
+      "snapshot_description_sha256": "eb96e9750d3dd83e9a8432384cf6d2e0997a2655d2990390f8493f4a97188e6f",
+      "existing_review_status": null
+    },
+    {
+      "number": 24,
+      "id": "unstop-1817819",
+      "title": "HR & Recruitment Internship",
+      "company": "Jobteq Solutions",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/hr-recruitment-internship-jobteq-solutions-1817819",
+      "published_role": "HR",
+      "reviewed_role": "HR",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Sourcing, screening and candidate evaluation are HR; remote internship is explicit.",
+      "fresh_source_title": "HR & Recruitment Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Jobteq Solutions is hiring for an HR & Recruitment Intern About the Company Jobteq Solutions works in a fast-moving digital business environment where",
+      "source_text_sha256": "e413afabbb95f4ccb8478c8ec6114a3b57bc715ee0fd909ba65140c562192b44",
+      "snapshot_description_sha256": "e413afabbb95f4ccb8478c8ec6114a3b57bc715ee0fd909ba65140c562192b44",
+      "existing_review_status": null
+    },
+    {
+      "number": 25,
+      "id": "unstop-1808983",
+      "title": "Business Development Executive Internship",
+      "company": "Spark Point Abroad",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/business-development-executive-internship-spark-point-abroad-1808983",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Indore"
+      ],
+      "reviewed_locations": [
+        "Indore"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Prospecting learners, enrollment leads and business targets are sales duties, not teaching; Indore is explicit.",
+      "fresh_source_title": "Business Development Executive Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "id": 1906839,
+          "city": "Indore",
+          "state": "Madhya Pradesh",
+          "country": "India",
+          "addressable_id": 1808983,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "Spark Point Abroad is hiring for Business Development Executive About the Company Spark Point Abroad operates in the education technology sector, supporting learners",
+      "source_text_sha256": "2b8ae3730d4e4d93174862d67111621efb9514a1fa05bfd0ff67a9d2a387e61a",
+      "snapshot_description_sha256": "b80733072c5ce48b305df4bcec29f7b371b73bf85cfe682ce77ebbe5960a8ab1",
+      "existing_review_status": null
+    },
+    {
+      "number": 26,
+      "id": "internshala-3335307",
+      "title": "Human Resources (HR)",
+      "company": "Transport Corporation Of India Limited",
+      "source": "Internshala",
+      "source_url": "https://internshala.com/internship/detail/human-resources-hr-internship-in-gurgaon-at-transport-corporation-of-india-limited1794829265",
+      "published_role": "HR",
+      "reviewed_role": "HR",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Gurugram"
+      ],
+      "reviewed_locations": [
+        "Gurugram"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Employee records, HR policies and HR administration are HR; Gurgaon normalizes to Gurugram.",
+      "fresh_source_title": "Human Resources (HR) - Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh original Internshala JobPosting HTML",
+      "retrieved_at": "2026-11-19T08:38:39.637455+00:00",
+      "source_locations": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Gurgaon",
+            "addressRegion": "Haryana"
+          }
+        }
+      ],
+      "source_mode": "INTERN, FULL_TIME",
+      "source_text_excerpt": "About the internship: As an HR intern at Transport Corporation Of India Limited, you will have the opportunity to gain hands-on experience in",
+      "source_text_sha256": "106c6244c8349acdd3e6fe83382b6ff7a13db4c8cfffbb0ce6f3825a710683fa",
+      "snapshot_description_sha256": "15e5b3f7ac7c2297aa8fec7557e0ee8acfe0698b95082f3002c3e4b3507f7118",
+      "existing_review_status": null
+    },
+    {
+      "number": 27,
+      "id": "internshala-3323377",
+      "title": "Customer Service/Customer Support",
+      "company": "Arihant Publications",
+      "source": "Internshala",
+      "source_url": "https://internshala.com/internship/detail/customer-service-customer-support-internship-in-noida-at-arihant-publications1792991577",
+      "published_role": "Operations",
+      "reviewed_role": "Operations",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Noida"
+      ],
+      "reviewed_locations": [
+        "Noida"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Responding to submitted customer queries and maintaining support records is Operations in the taxonomy; Noida office.",
+      "fresh_source_title": "Customer Service/Customer Support - Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh original Internshala JobPosting HTML",
+      "retrieved_at": "2026-11-19T08:38:40.600347+00:00",
+      "source_locations": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Noida",
+            "addressRegion": "Uttar Pradesh"
+          }
+        }
+      ],
+      "source_mode": "INTERN, FULL_TIME",
+      "source_text_excerpt": "About the internship: Responsibilities: 1. Call customers who submit queries through our website. 2. Speak with teachers, dealers, retailers, students and other customers.",
+      "source_text_sha256": "6750820f84548d6af2c96ddc9dffd5850952b012c39baeebfe59522d5a30ed2a",
+      "snapshot_description_sha256": "f4802bf1e5b62dea3a843a9499790f0ad9b7b2ef37c9bc782ac7f180335305ed",
+      "existing_review_status": "reviewed"
+    },
+    {
+      "number": 28,
+      "id": "unstop-1804225",
+      "title": "Business Development Internship",
+      "company": "Soft Suave",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/business-development-internship-soft-suave-1804225",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Bengaluru"
+      ],
+      "reviewed_locations": [
+        "Bengaluru"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Client research, proposals and lead follow-up are nontechnical sales duties despite the IT employer; Whitefield/Bangalore normalizes to Bengaluru.",
+      "fresh_source_title": "Business Development Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "id": 1902228,
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "addressable_id": 1804225,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "About the Company: Soft Suave operates in the Information Technology industry and is seeking a Business Development Intern to support its growth and",
+      "source_text_sha256": "4436b37aa17753d9dd35f04e562c110777c9281b6dc15846e04bcb750ff8b8b9",
+      "snapshot_description_sha256": "4436b37aa17753d9dd35f04e562c110777c9281b6dc15846e04bcb750ff8b8b9",
+      "existing_review_status": null
+    },
+    {
+      "number": 29,
+      "id": "unstop-1810520",
+      "title": "Creator & Growth Internship",
+      "company": "Dots-In",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/creator-growth-internship-dots-in-1810520",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Creator-led growth experiments, content distribution, audience metrics and install conversion are marketing. Remote is explicit.",
+      "fresh_source_title": "Creator & Growth Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "About the Company Assessli is a consumer AI startup building a student creator program to help people discover useful product experiences through clear,",
+      "source_text_sha256": "3b60e3d6243f63de6d5b3302e6b8aace33e070754bcaf329c5e3ddf25271a90a",
+      "snapshot_description_sha256": "3b60e3d6243f63de6d5b3302e6b8aace33e070754bcaf329c5e3ddf25271a90a",
+      "existing_review_status": null
+    },
+    {
+      "number": 30,
+      "id": "unstop-1796516",
+      "title": "Tele Sales Executive Internship",
+      "company": "Doctar Connect Worldwide PVT LTD",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/tele-sales-executive-internship-doctar-connect-worldwide-pvt-ltd-1796516",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Kolkata"
+      ],
+      "reviewed_locations": [
+        "Kolkata"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Outbound calls, premium plan sales, subscription conversion and targets are sales duties; Kolkata office.",
+      "fresh_source_title": "Tele Sales Executive Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "id": 1899929,
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "country": "India",
+          "addressable_id": 1796516,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "Doctar Connect Worldwide PVT LTD is hiring for Tele Sales Executive – Doctor Acquisition About the Company Doctar Connect Worldwide PVT LTD is",
+      "source_text_sha256": "758f47b647816cce02c020cf031694530764eb66bad80cc71f880d56d0f73d41",
+      "snapshot_description_sha256": "758f47b647816cce02c020cf031694530764eb66bad80cc71f880d56d0f73d41",
+      "existing_review_status": null
+    },
+    {
+      "number": 31,
+      "id": "unstop-1815867",
+      "title": "Data Entry Operator Internship",
+      "company": "Nishkarsh IT Solution Private Limited",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/data-entry-operator-internship-nishkarsh-it-solution-private-limited-1815867",
+      "published_role": "Operations",
+      "reviewed_role": "Operations",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Noida",
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "normalization_mismatch",
+      "joint_verdict": "normalization_mismatch",
+      "review_note": "Catalog data entry, product fields and stock updates are operational administration, not data engineering. WFH metadata with no stated local presence requirement.",
+      "fresh_source_title": "Data Entry Operator Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "id": 1913765,
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "country": "India",
+          "addressable_id": 1815867,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Responsibilities List products on the website. Update Product Name, Selling Price, and MRP. Upload Product Images and Gallery Images. Write Short Descriptions and",
+      "source_text_sha256": "e1aa7524b9450ab84fa8b0f8beeb4b2e6a6943fce6fbcf57f8c1a67b5a7ac5b5",
+      "snapshot_description_sha256": "e1aa7524b9450ab84fa8b0f8beeb4b2e6a6943fce6fbcf57f8c1a67b5a7ac5b5",
+      "existing_review_status": null
+    },
+    {
+      "number": 32,
+      "id": "unstop-1816126",
+      "title": "Software Development Internship",
+      "company": "My Indian Things",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/software-development-internship-my-indian-things-1816126",
+      "published_role": "Software & IT",
+      "reviewed_role": "Software & IT",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Application implementation, testing and debugging are software development; remote work is explicit.",
+      "fresh_source_title": "Software Development Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "My Indian Things is hiring for a Software Development Intern About the Company My Indian Things works in customized surface solutions and supply",
+      "source_text_sha256": "aa7fb9fc2ddd1dd60cdd4c2cad14fe25552cc3e27c5c0e7e4a78c99ee4db937a",
+      "snapshot_description_sha256": "aa7fb9fc2ddd1dd60cdd4c2cad14fe25552cc3e27c5c0e7e4a78c99ee4db937a",
+      "existing_review_status": null
+    },
+    {
+      "number": 33,
+      "id": "unstop-1815862",
+      "title": "Business Development Internship",
+      "company": "Growcite Talent Management India Private Limited",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/business-development-internship-growcite-talent-management-india-private-limited-1815862",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Client prospecting and lead follow-up are sales despite the HR industry; remote is explicit.",
+      "fresh_source_title": "Business Development Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "About the Company Growcite Talent Management India Private Limited is seeking a Business Development Intern/Trainee to support its outreach and growth initiatives within",
+      "source_text_sha256": "8e000efa6ca654f409cca90b29e84fa24f0b67a59548875eb7e4314b86f86b0e",
+      "snapshot_description_sha256": "8e000efa6ca654f409cca90b29e84fa24f0b67a59548875eb7e4314b86f86b0e",
+      "existing_review_status": null
+    },
+    {
+      "number": 34,
+      "id": "unstop-1804519",
+      "title": "Business Development Internship",
+      "company": "One Better Squares",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/business-development-internship-one-better-squares-1804519",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Bengaluru"
+      ],
+      "reviewed_locations": [
+        "Bengaluru"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Property lead generation, client calls, site visits and sales targets dominate; Bangalore normalizes to Bengaluru.",
+      "fresh_source_title": "Business Development Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "id": 1902303,
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "addressable_id": 1804519,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "About the Company One Better Squares operates in the real estate industry and is seeking a motivated Business Development Executive Intern to support",
+      "source_text_sha256": "37a88ce9dbeb82e510e250f23efce2163fad95f54c8e499e90d3e0d0663db05e",
+      "snapshot_description_sha256": "37a88ce9dbeb82e510e250f23efce2163fad95f54c8e499e90d3e0d0663db05e",
+      "existing_review_status": "reviewed"
+    },
+    {
+      "number": 35,
+      "id": "unstop-1804349",
+      "title": "Sales Consultant Internship",
+      "company": "Network FP",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/sales-consultant-internship-network-fp-1804349",
+      "published_role": "Sales & Business",
+      "reviewed_role": null,
+      "role_verdict": "ambiguous",
+      "published_locations": [
+        "Mumbai"
+      ],
+      "reviewed_locations": [
+        "Mumbai"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "ambiguous",
+      "review_note": "Member eligibility conversion, document collection, onboarding and service coexist with renewals and a sales title. Operations versus Sales is unclear without time allocation or a clear commercial conversion duty. Parel is a Mumbai locality.",
+      "fresh_source_title": "Sales Consultant Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "id": 1902157,
+          "city": "Parel",
+          "state": "Maharashtra",
+          "country": "India",
+          "addressable_id": 1804349,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "About Network FP Network FP is India's professional community for Personal Finance Professionals (PFPs): financial planners, advisors and mutual fund distributors. We're working",
+      "source_text_sha256": "03c9ad094ffc54d4b8bfe1690d187779308bc231288a5190b96150a17c5055ee",
+      "snapshot_description_sha256": "03c9ad094ffc54d4b8bfe1690d187779308bc231288a5190b96150a17c5055ee",
+      "existing_review_status": null
+    },
+    {
+      "number": 36,
+      "id": "unstop-1812709",
+      "title": "Business Development Internship",
+      "company": "Espalier",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/business-development-internship-espalier-1812709",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Gurugram"
+      ],
+      "reviewed_locations": [
+        "Gurugram"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Prospecting, lead outreach and meetings are sales duties. Gurgaon placement metadata, not the employer's Singapore headquarters.",
+      "fresh_source_title": "Business Development Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "id": 1910471,
+          "city": "Gurgaon",
+          "state": "Haryana",
+          "country": "India",
+          "addressable_id": 1812709,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "hybrid",
+      "source_text_excerpt": "About the Company Espalier is a consulting firm headquartered in Singapore, supporting consulting firms, private equity investors, and Fortune 500 enterprises as they",
+      "source_text_sha256": "32a96eb755f708e84e4213c156bd6dd6a3854e14be52a4012e9b6457f98dbc8f",
+      "snapshot_description_sha256": "32a96eb755f708e84e4213c156bd6dd6a3854e14be52a4012e9b6457f98dbc8f",
+      "existing_review_status": null
+    },
+    {
+      "number": 37,
+      "id": "unstop-1807024",
+      "title": "Blog Writer and Manager Internship",
+      "company": "Triverse Solutions Private Limited",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/blog-writer-and-manager-internship-triverse-solutions-private-limited-1807024",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Pune"
+      ],
+      "reviewed_locations": [
+        "Pune"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Brand blog content, publishing calendars and on-page content practices support marketing; Pune office.",
+      "fresh_source_title": "Blog Writer and Manager Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "id": 1905285,
+          "city": "Pune",
+          "state": "Maharashtra",
+          "country": "India",
+          "addressable_id": 1807024,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "About the Company Triverse Solutions Private Limited works in Digital Marketing & Advertising, with a focus on software-related audiences and communication. The Blog",
+      "source_text_sha256": "1fdfa56f15256ab11a7b8bb2b921a844069e39992f0a8b4b50b4b4043ccbd47e",
+      "snapshot_description_sha256": "837434b49c6c6fed3f564597d839ef23fa457db02cf8336d8fa478797bde7fb6",
+      "existing_review_status": null
+    },
+    {
+      "number": 38,
+      "id": "unstop-1807028",
+      "title": "Sales and Marketing Internship",
+      "company": "Sionx Innovations Private Limited",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/sales-and-marketing-internship-sionx-innovations-private-limited-1807028",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Kanniyakumari",
+        "Madurai",
+        "Thoothukudi",
+        "Tirunelveli"
+      ],
+      "reviewed_locations": [
+        "Kanniyakumari",
+        "Madurai",
+        "Thoothukudi",
+        "Tirunelveli"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Institutional field prospecting and sales demonstrations dominate, not teaching. Preserve all four districts/cities using the source spelling Kanniyakumari.",
+      "fresh_source_title": "Sales and Marketing Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "id": 1905211,
+          "city": "Kanniyakumari",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "addressable_id": 1807028,
+          "addressable_type": "App\\Model\\Opportunity"
+        },
+        {
+          "id": 1905212,
+          "city": "Madurai",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "addressable_id": 1807028,
+          "addressable_type": "App\\Model\\Opportunity"
+        },
+        {
+          "id": 1905213,
+          "city": "Thoothukudi",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "addressable_id": 1807028,
+          "addressable_type": "App\\Model\\Opportunity"
+        },
+        {
+          "id": 1905214,
+          "city": "Tirunelveli",
+          "state": "Tamil Nadu",
+          "country": "India",
+          "addressable_id": 1807028,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "About Sionx Innovations Sionx Innovations Private Limited focuses on technology-driven solutions that support modern education and business environments, including interactive digital boards and",
+      "source_text_sha256": "cd46a119010165e74342c712b81e50eb38e458de8346865be4cc889cfd4cc8de",
+      "snapshot_description_sha256": "cd46a119010165e74342c712b81e50eb38e458de8346865be4cc889cfd4cc8de",
+      "existing_review_status": null
+    },
+    {
+      "number": 39,
+      "id": "unstop-1803820",
+      "title": "Business Development Internship",
+      "company": "Robomanthan Private Limited",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/business-development-internship-robomanthan-private-limited-1803820",
+      "published_role": "Education",
+      "reviewed_role": "Education",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Anekal"
+      ],
+      "reviewed_locations": [
+        "Anekal"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Training workshops, teaching materials, guiding students and assessment dominate despite the business-development title. Anekal field location.",
+      "fresh_source_title": "Business Development Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "id": 1902147,
+          "city": "Anekal",
+          "state": "Karnataka",
+          "country": "India",
+          "addressable_id": 1803820,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "on_field",
+      "source_text_excerpt": "Roles & Responsibilities Support the planning and execution of workshops, training programs, and practical sessions. Prepare training materials, presentations, assignments, and assessments. Guide",
+      "source_text_sha256": "8f7fd8ad57672e1b226679dc2ddb2df683de10b0a996c4a232934045cbe0c5db",
+      "snapshot_description_sha256": "8f7fd8ad57672e1b226679dc2ddb2df683de10b0a996c4a232934045cbe0c5db",
+      "existing_review_status": "corrected"
+    },
+    {
+      "number": 40,
+      "id": "internshala-3333532",
+      "title": "Customer Service/Customer Support",
+      "company": "Justdial Limited",
+      "source": "Internshala",
+      "source_url": "https://internshala.com/internship/detail/customer-service-customer-support-internship-in-kolkata-at-justdial-limited1794556136",
+      "published_role": "Operations",
+      "reviewed_role": "Operations",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Kolkata"
+      ],
+      "reviewed_locations": [
+        "Kolkata"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Customer calls, queries and SOP documentation fit customer-service Operations; Kolkata office.",
+      "fresh_source_title": "Customer Service/Customer Support - Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh original Internshala JobPosting HTML",
+      "retrieved_at": "2026-11-19T08:38:40.616332+00:00",
+      "source_locations": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Kolkata",
+            "addressRegion": "West Bengal"
+          }
+        }
+      ],
+      "source_mode": "INTERN, FULL_TIME",
+      "source_text_excerpt": "About the internship: Selected intern's day-to-day responsibilities include: 1. Handle inbound and outbound customer calls. 2. Follow standard communication scripts and calling guidelines.",
+      "source_text_sha256": "982b40a80e30c1616df5c808354d48e3f7a4625df27fdbd72b8a1befbf530012",
+      "snapshot_description_sha256": "5ac00c95dea55d74b04719c0db8c4e6f27d2e7a7fe214f97d62a091324452061",
+      "existing_review_status": null
+    },
+    {
+      "number": 41,
+      "id": "unstop-1812980",
+      "title": "Marketing Analyst Internship",
+      "company": "Radora",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/marketing-analyst-internship-radora-1812980",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Campaign KPIs, conversion rates, market research and marketing effectiveness are marketing analytics, not AI engineering despite the employer's product descriptions. 100% remote is explicit.",
+      "fresh_source_title": "Marketing Analyst Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.663478+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Company Description Radora is a technology company that builds intelligent, scalable digital solutions for education, healthcare, and modern enterprises. The company focuses on",
+      "source_text_sha256": "6bb32f67a807cc307f5a6eec586e1136e09f5ac82c34312e8dbf51518f4e79ae",
+      "snapshot_description_sha256": "c3e732e2085e49813c5ae6052a03ce285b783d3a25589ae12f8c8af9aeebf1bf",
+      "existing_review_status": null
+    },
+    {
+      "number": 42,
+      "id": "internshala-3321005",
+      "title": "Course Support",
+      "company": "CIIE Initiatives (IIM Ahmedabad)",
+      "source": "Internshala",
+      "source_url": "https://internshala.com/internship/detail/course-support-internship-in-ahmedabad-at-ciie-initiatives-iim-ahmedabad1792720033",
+      "published_role": "Education",
+      "reviewed_role": "Education",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Ahmedabad"
+      ],
+      "reviewed_locations": [
+        "Ahmedabad"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Classroom facilitation, grading assignments and tracking student projects are teaching support. Ahmedabad office, not generic investment operations.",
+      "fresh_source_title": "Course Support - Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh original Internshala JobPosting HTML",
+      "retrieved_at": "2026-11-19T08:38:40.663478+00:00",
+      "source_locations": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Ahmedabad",
+            "addressRegion": "Gujarat"
+          }
+        }
+      ],
+      "source_mode": "VOLUNTEER, INTERN, FULL_TIME",
+      "source_text_excerpt": "About the internship: Selected intern's day-to-day responsibilities include: 1. Support the course as required by the instructor, including collating materials, grading assignments, and",
+      "source_text_sha256": "6446510ff4e8b377c582879658b0d92931113855a1219a16f8f9065af4e4d09a",
+      "snapshot_description_sha256": "ca24058452a8cefa94b6fef64649a56bd44f4a69e3fcca1515e281e6cb6b5cd5",
+      "existing_review_status": null
+    },
+    {
+      "number": 43,
+      "id": "unstop-1818258",
+      "title": "React Developer Internship",
+      "company": "ReflexWebs Solutions",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/react-developer-intern-reflexwebs-solutions-1818258",
+      "published_role": "Software & IT",
+      "reviewed_role": "Software & IT",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "React components, testing and debugging are software development; remote is explicit.",
+      "fresh_source_title": "React Developer Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.727093+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Founder is hiring for React Developer Intern About the Company Founder is seeking a React Developer Intern to contribute to technology initiatives and",
+      "source_text_sha256": "ea2fea6b28c5d39f8819b8ea0a900b33a8987147a15fd387acd1d0d46887267a",
+      "snapshot_description_sha256": "ea2fea6b28c5d39f8819b8ea0a900b33a8987147a15fd387acd1d0d46887267a",
+      "existing_review_status": null
+    },
+    {
+      "number": 44,
+      "id": "unstop-1814271",
+      "title": "Campus Recruitment Internship",
+      "company": "Akrenix Solutions",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/campus-recruitment-internship-akrenix-solutions-1814271",
+      "published_role": "HR",
+      "reviewed_role": "HR",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Bengaluru"
+      ],
+      "reviewed_locations": [
+        "Bengaluru"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Campus candidate applications, hiring events and recruitment follow-ups are HR rather than student marketing; Bangalore hybrid placement.",
+      "fresh_source_title": "Campus Recruitment Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:40.727093+00:00",
+      "source_locations": [
+        {
+          "id": 1912736,
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India",
+          "addressable_id": 1814271,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "hybrid",
+      "source_text_excerpt": "Roles and Responsibilities: Support campus recruitment activities and help coordinate outreach to educational institutions. Assist with organizing recruitment events, campus visits, and candidate",
+      "source_text_sha256": "a586a4cf4708d116fcb065ca4981ba72f53a2badb7178b1255d870e534d5b862",
+      "snapshot_description_sha256": "a586a4cf4708d116fcb065ca4981ba72f53a2badb7178b1255d870e534d5b862",
+      "existing_review_status": null
+    },
+    {
+      "number": 45,
+      "id": "internshala-3279305",
+      "title": "Lead Generation (On field)",
+      "company": "Reliance Nippon Life Insurance",
+      "source": "Internshala",
+      "source_url": "https://internshala.com/internship/detail/part-time-lead-generation-on-field-internship-in-delhi-at-reliance-nippon-life-insurance1794982035",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Delhi"
+      ],
+      "reviewed_locations": [
+        "Delhi"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Field lead generation and gathering prospects fit sales support. Delhi metadata; NCR visits do not identify any additional specific city. Start window is old despite a future application deadline; availability needs separate confirmation.",
+      "fresh_source_title": "Lead Generation (On field) - Internship (Part Time)",
+      "source_title_changed": false,
+      "evidence_method": "Fresh original Internshala JobPosting HTML",
+      "retrieved_at": "2026-11-19T08:38:40.727093+00:00",
+      "source_locations": [
+        {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Delhi",
+            "addressRegion": "Delhi"
+          }
+        }
+      ],
+      "source_mode": "INTERN, PART_TIME",
+      "source_text_excerpt": "About the internship: Selected intern's day-to-day responsibilities include: 1. Visit specified locations in Delhi NCR to map competitor presence. 2. Interact with people",
+      "source_text_sha256": "fe9278ac621aa6b545e27122aa70a3a6052862405d0554f78dea92b87cb42cbc",
+      "snapshot_description_sha256": "d41e5dc6094d9f6de8d017e38959699f171110199ddb912a7ae2a7d6e0c1e1fa",
+      "existing_review_status": null
+    },
+    {
+      "number": 46,
+      "id": "unstop-1810152",
+      "title": "Software Testing Internship",
+      "company": "ePool Solutions LLP",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/software-testing-internship-epool-solutions-llp-1810152",
+      "published_role": "Software & IT",
+      "reviewed_role": "Software & IT",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "UI/system test execution, calculations and defect reports are software QA, not HR despite the product domain; remote is explicit.",
+      "fresh_source_title": "Software Testing Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:41.363890+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "About the role One Mind Learning is the internship program of ePool Solutions LLP, which builds CloudEntry, an attendance and HR platform used",
+      "source_text_sha256": "24820397a67f40289de7aa91b4147eef60b11f14067a8e1cf225346a8c498ff7",
+      "snapshot_description_sha256": "24820397a67f40289de7aa91b4147eef60b11f14067a8e1cf225346a8c498ff7",
+      "existing_review_status": null
+    },
+    {
+      "number": 47,
+      "id": "unstop-1810229",
+      "title": "CAD Design Internship - Soft Robotics Mold Design (Fusion 360)",
+      "company": "SwethaReddy Innovations Pvt Ltd",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/cad-design-internship-soft-robotics-mold-design-fusion-360-swethareddy-innovations-pvt-ltd-1810229",
+      "published_role": "Engineering",
+      "reviewed_role": "Engineering",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Visakhapatnam"
+      ],
+      "reviewed_locations": [
+        "Visakhapatnam"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Mechanical mold design, Fusion 360 and fabrication for soft robotics are Engineering rather than visual graphic design; Visakhapatnam office.",
+      "fresh_source_title": "CAD Design Internship - Soft Robotics Mold Design (Fusion 360)",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:41.363890+00:00",
+      "source_locations": [
+        {
+          "id": 1908499,
+          "city": "Visakhapatnam",
+          "state": "Andhra Pradesh",
+          "country": "India",
+          "addressable_id": 1810229,
+          "addressable_type": "App\\Model\\Opportunity"
+        }
+      ],
+      "source_mode": "in_office",
+      "source_text_excerpt": "About the Company: SwethaReddy Innovations Pvt Ltd is developing NeuroGrip, an affordable EMG-triggered assistive technology product. The team brings together mechanical design and",
+      "source_text_sha256": "9959d0f065f7b7d6ed8fd87cc504a991cf19b358f390587ae4170db1d61d7960",
+      "snapshot_description_sha256": "9959d0f065f7b7d6ed8fd87cc504a991cf19b358f390587ae4170db1d61d7960",
+      "existing_review_status": null
+    },
+    {
+      "number": 48,
+      "id": "unstop-1810776",
+      "title": "Sales Intern",
+      "company": "AgentReceipt",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/sales-intern-agentreceipt-1810776",
+      "published_role": "Sales & Business",
+      "reviewed_role": "Sales & Business",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Prospecting, outreach and lead records are sales duties; remote is explicit.",
+      "fresh_source_title": "Sales Intern",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:41.363890+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "AgentReceipt is hiring for Sales Intern About the Company AgentReceipt operates in the technology sector and is building its presence through digital products",
+      "source_text_sha256": "35f251931c042a561aa7357daf9ecc33b7d0c396b0d42ae9e713b2cb4861d164",
+      "snapshot_description_sha256": "35f251931c042a561aa7357daf9ecc33b7d0c396b0d42ae9e713b2cb4861d164",
+      "existing_review_status": null
+    },
+    {
+      "number": 49,
+      "id": "unstop-1802578",
+      "title": "Law Campus Ambassador Internship",
+      "company": "MyCaptain",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/law-campus-ambassador-internship-mycaptain-1802578",
+      "published_role": "Marketing",
+      "reviewed_role": "Marketing",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Unspecified"
+      ],
+      "location_verdict": "wrong",
+      "joint_verdict": "wrong",
+      "review_note": "Promotional outreach, events and community building are marketing, not legal practice. Representing the organization at campus gatherings and maintaining an offline campus community conflicts with a pure WFH promise; no campus city is specified.",
+      "fresh_source_title": "Law Campus Ambassador Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:41.363890+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "Responsibilities: Legal Outreach & Education: Organize and promote legal workshops, seminars, and information sessions on relevant legal topics. Assist in the creation and",
+      "source_text_sha256": "7c6f5f483714ff064fe7c53287f06777a9f4c7a5344b3ce43fbc18c0d13a4ba8",
+      "snapshot_description_sha256": "7c6f5f483714ff064fe7c53287f06777a9f4c7a5344b3ce43fbc18c0d13a4ba8",
+      "existing_review_status": null
+    },
+    {
+      "number": 50,
+      "id": "unstop-1813142",
+      "title": "AI Trainer Internship",
+      "company": "SKILL3X",
+      "source": "Unstop",
+      "source_url": "https://unstop.com/internships/ai-trainer-internship-skill3x-1813142",
+      "published_role": "Education",
+      "reviewed_role": "Education",
+      "role_verdict": "correct",
+      "published_locations": [
+        "Remote"
+      ],
+      "reviewed_locations": [
+        "Remote"
+      ],
+      "location_verdict": "correct",
+      "joint_verdict": "correct",
+      "review_note": "Creating learning materials and delivering live AI training sessions is teaching, not training machine-learning models. WFH metadata without a local presence requirement.",
+      "fresh_source_title": "AI Trainer Internship",
+      "source_title_changed": false,
+      "evidence_method": "Fresh Unstop public API record",
+      "retrieved_at": "2026-11-19T08:38:41.363890+00:00",
+      "source_locations": [],
+      "source_mode": "wfh",
+      "source_text_excerpt": "About the Company SKILL3X is looking for AI Trainer Interns to join our team. We are a dynamic company in the AI industry,",
+      "source_text_sha256": "3747e940c0c5f46cbef8080b9e7651c17e885326ad2510c072d7c5f382a95e50",
+      "snapshot_description_sha256": "3747e940c0c5f46cbef8080b9e7651c17e885326ad2510c072d7c5f382a95e50",
+      "existing_review_status": null
+    }
+  ],
+  "overlap_with_previous_sample": [
+    "internshala-3323377",
+    "unstop-1803820",
+    "unstop-1804519",
+    "unstop-1806808",
+    "unstop-1806963"
+  ]
+}

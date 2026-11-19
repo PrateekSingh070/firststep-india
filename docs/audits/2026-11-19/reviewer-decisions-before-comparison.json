@@ -1,0 +1,407 @@
+[
+  [
+    1,
+    "Marketing",
+    [
+      "Noida"
+    ],
+    "SEO keyword research, backlinks and rankings are marketing duties; office in Noida."
+  ],
+  [
+    2,
+    "Sales & Business",
+    [
+      "Bengaluru"
+    ],
+    "Retail prospecting, partner onboarding and lead conversion dominate; Bangalore normalizes to Bengaluru. Field visits are explicit."
+  ],
+  [
+    3,
+    "Engineering",
+    [
+      "Mumbai"
+    ],
+    "Architectural drawings, layouts and design documentation fit the broad Engineering category; full-time Mumbai office."
+  ],
+  [
+    4,
+    "Design & Creative",
+    [
+      "Bengaluru"
+    ],
+    "Product photography, lighting and retouching are creative work. Bangalore internship location, not the employer's nationwide delivery cities."
+  ],
+  [
+    5,
+    "Marketing",
+    [
+      "Unspecified"
+    ],
+    "Content strategy, CEO branding, PR outreach and social media dominate. Hybrid is given without a city; do not infer a city or Remote."
+  ],
+  [
+    6,
+    "Marketing",
+    [
+      "Noida"
+    ],
+    "SEO rankings, keywords and backlinks are marketing. Hybrid metadata specifies Noida without contrary location prose."
+  ],
+  [
+    7,
+    "Sales & Business",
+    [
+      "Noida"
+    ],
+    "Customer prospecting and sales follow-ups accompany campaign support in real estate sales; Noida is explicit."
+  ],
+  [
+    8,
+    "Finance",
+    [
+      "Kolkata"
+    ],
+    "Bookkeeping, invoices, reconciliation and financial reporting are finance duties; Kolkata metadata."
+  ],
+  [
+    9,
+    "Data & AI",
+    [
+      "Remote"
+    ],
+    "Data pipeline development, transformations and data quality are data engineering; WFH and remote prose agree."
+  ],
+  [
+    10,
+    "Design & Creative",
+    [
+      "Remote"
+    ],
+    "Instagram graphic asset design dominates, rather than campaign management. WFH and remote prose agree."
+  ],
+  [
+    11,
+    "HR",
+    [
+      "Remote"
+    ],
+    "Candidate sourcing, recruitment coordination and onboarding are HR. Fully remote prose agrees with WFH metadata."
+  ],
+  [
+    12,
+    "Design & Creative",
+    [
+      "Navi Mumbai"
+    ],
+    "Graphics and video asset creation are creative duties. Hybrid base in Navi Mumbai is explicit; remote work is also available, so this is not purely remote."
+  ],
+  [
+    13,
+    "Operations",
+    [
+      "Hyderabad"
+    ],
+    "Customer queries, issue resolution and support records fit Operations in the taxonomy; full-time Hyderabad presence required."
+  ],
+  [
+    14,
+    "Marketing",
+    [
+      "Remote"
+    ],
+    "Google/Meta paid campaigns and PPC optimization are marketing. WFH and repeated remote prose make Remote appropriate despite Gurgaon reference metadata."
+  ],
+  [
+    15,
+    "Sales & Business",
+    [
+      "Bengaluru",
+      "Coimbatore",
+      "Madurai",
+      "Nellore",
+      "Pune"
+    ],
+    "Prospecting schools and explaining finance products is sales, not accounting or teaching. Retain all five field-placement cities."
+  ],
+  [
+    16,
+    "Operations",
+    [
+      "Mumbai"
+    ],
+    "Requirements, user feedback and cross-team product coordination fit Operations because Product is absent from the broad taxonomy. Borivali is within Mumbai, so collapse duplicates."
+  ],
+  [
+    17,
+    "Marketing",
+    [
+      "Remote"
+    ],
+    "Campaigns, social media and promotional reporting dominate. WFH and explicit remote location agree; offline lead generation is mentioned without a mandated visit location."
+  ],
+  [
+    18,
+    "Sales & Business",
+    [
+      "Bhopal"
+    ],
+    "Prospecting, cold calls, proposals and customer meetings are sales duties; Bhopal office and local field visits are explicit."
+  ],
+  [
+    19,
+    "Operations",
+    [
+      "Bhopal"
+    ],
+    "Driver onboarding, supply availability, vendor coordination and operational issue resolution dominate. Bhopal office and local visits are explicit."
+  ],
+  [
+    20,
+    "HR",
+    [
+      "Remote"
+    ],
+    "Recruitment screening, interviews and onboarding are HR duties. WFH metadata gives Remote, with no contrary presence requirement."
+  ],
+  [
+    21,
+    "HR",
+    [
+      "Remote"
+    ],
+    "Sourcing, screening, interviews and onboarding are HR; fully remote within India is explicit."
+  ],
+  [
+    22,
+    "Design & Creative",
+    [
+      "Remote"
+    ],
+    "Current source title and duties are UI/UX wireframes, prototypes and interface layouts despite the HR slug. WFH metadata; no local presence requirement. Flag changed title/content when comparing snapshot."
+  ],
+  [
+    23,
+    "Marketing",
+    null,
+    "Campus promotion, outreach and engagement are marketing. WFH metadata coexists with responsibility for campus-level activities; whether those require physical campus presence is unclear, so location is ambiguous."
+  ],
+  [
+    24,
+    "HR",
+    [
+      "Remote"
+    ],
+    "Sourcing, screening and candidate evaluation are HR; remote internship is explicit."
+  ],
+  [
+    25,
+    "Sales & Business",
+    [
+      "Indore"
+    ],
+    "Prospecting learners, enrollment leads and business targets are sales duties, not teaching; Indore is explicit."
+  ],
+  [
+    26,
+    "HR",
+    [
+      "Gurugram"
+    ],
+    "Employee records, HR policies and HR administration are HR; Gurgaon normalizes to Gurugram."
+  ],
+  [
+    27,
+    "Operations",
+    [
+      "Noida"
+    ],
+    "Responding to submitted customer queries and maintaining support records is Operations in the taxonomy; Noida office."
+  ],
+  [
+    28,
+    "Sales & Business",
+    [
+      "Bengaluru"
+    ],
+    "Client research, proposals and lead follow-up are nontechnical sales duties despite the IT employer; Whitefield/Bangalore normalizes to Bengaluru."
+  ],
+  [
+    29,
+    "Marketing",
+    [
+      "Remote"
+    ],
+    "Creator-led growth experiments, content distribution, audience metrics and install conversion are marketing. Remote is explicit."
+  ],
+  [
+    30,
+    "Sales & Business",
+    [
+      "Kolkata"
+    ],
+    "Outbound calls, premium plan sales, subscription conversion and targets are sales duties; Kolkata office."
+  ],
+  [
+    31,
+    "Operations",
+    [
+      "Remote"
+    ],
+    "Catalog data entry, product fields and stock updates are operational administration, not data engineering. WFH metadata with no stated local presence requirement."
+  ],
+  [
+    32,
+    "Software & IT",
+    [
+      "Remote"
+    ],
+    "Application implementation, testing and debugging are software development; remote work is explicit."
+  ],
+  [
+    33,
+    "Sales & Business",
+    [
+      "Remote"
+    ],
+    "Client prospecting and lead follow-up are sales despite the HR industry; remote is explicit."
+  ],
+  [
+    34,
+    "Sales & Business",
+    [
+      "Bengaluru"
+    ],
+    "Property lead generation, client calls, site visits and sales targets dominate; Bangalore normalizes to Bengaluru."
+  ],
+  [
+    35,
+    null,
+    [
+      "Mumbai"
+    ],
+    "Member eligibility conversion, document collection, onboarding and service coexist with renewals and a sales title. Operations versus Sales is unclear without time allocation or a clear commercial conversion duty. Parel is a Mumbai locality."
+  ],
+  [
+    36,
+    "Sales & Business",
+    [
+      "Gurugram"
+    ],
+    "Prospecting, lead outreach and meetings are sales duties. Gurgaon placement metadata, not the employer's Singapore headquarters."
+  ],
+  [
+    37,
+    "Marketing",
+    [
+      "Pune"
+    ],
+    "Brand blog content, publishing calendars and on-page content practices support marketing; Pune office."
+  ],
+  [
+    38,
+    "Sales & Business",
+    [
+      "Kanniyakumari",
+      "Madurai",
+      "Thoothukudi",
+      "Tirunelveli"
+    ],
+    "Institutional field prospecting and sales demonstrations dominate, not teaching. Preserve all four districts/cities using the source spelling Kanniyakumari."
+  ],
+  [
+    39,
+    "Education",
+    [
+      "Anekal"
+    ],
+    "Training workshops, teaching materials, guiding students and assessment dominate despite the business-development title. Anekal field location."
+  ],
+  [
+    40,
+    "Operations",
+    [
+      "Kolkata"
+    ],
+    "Customer calls, queries and SOP documentation fit customer-service Operations; Kolkata office."
+  ],
+  [
+    41,
+    "Marketing",
+    [
+      "Remote"
+    ],
+    "Campaign KPIs, conversion rates, market research and marketing effectiveness are marketing analytics, not AI engineering despite the employer's product descriptions. 100% remote is explicit."
+  ],
+  [
+    42,
+    "Education",
+    [
+      "Ahmedabad"
+    ],
+    "Classroom facilitation, grading assignments and tracking student projects are teaching support. Ahmedabad office, not generic investment operations."
+  ],
+  [
+    43,
+    "Software & IT",
+    [
+      "Remote"
+    ],
+    "React components, testing and debugging are software development; remote is explicit."
+  ],
+  [
+    44,
+    "HR",
+    [
+      "Bengaluru"
+    ],
+    "Campus candidate applications, hiring events and recruitment follow-ups are HR rather than student marketing; Bangalore hybrid placement."
+  ],
+  [
+    45,
+    "Sales & Business",
+    [
+      "Delhi"
+    ],
+    "Field lead generation and gathering prospects fit sales support. Delhi metadata; NCR visits do not identify any additional specific city. Start window is old despite a future application deadline; availability needs separate confirmation."
+  ],
+  [
+    46,
+    "Software & IT",
+    [
+      "Remote"
+    ],
+    "UI/system test execution, calculations and defect reports are software QA, not HR despite the product domain; remote is explicit."
+  ],
+  [
+    47,
+    "Engineering",
+    [
+      "Visakhapatnam"
+    ],
+    "Mechanical mold design, Fusion 360 and fabrication for soft robotics are Engineering rather than visual graphic design; Visakhapatnam office."
+  ],
+  [
+    48,
+    "Sales & Business",
+    [
+      "Remote"
+    ],
+    "Prospecting, outreach and lead records are sales duties; remote is explicit."
+  ],
+  [
+    49,
+    "Marketing",
+    [
+      "Unspecified"
+    ],
+    "Promotional outreach, events and community building are marketing, not legal practice. Representing the organization at campus gatherings and maintaining an offline campus community conflicts with a pure WFH promise; no campus city is specified."
+  ],
+  [
+    50,
+    "Education",
+    [
+      "Remote"
+    ],
+    "Creating learning materials and delivering live AI training sessions is teaching, not training machine-learning models. WFH metadata without a local presence requirement."
+  ]
+]

@@ -21,3 +21,4 @@ jobs:
         working-directory: web
       - run: node --test collector/tests/pipeline.test.mjs
       - run: python docs/audits/2026-11-16/score_audit.py
+      - run: python docs/audits/2026-11-19/score_audit.py
