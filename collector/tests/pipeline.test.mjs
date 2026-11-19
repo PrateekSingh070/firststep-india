@@ -4,7 +4,10 @@ import {createHash} from 'node:crypto';
 const updaterToken='test-updater-only';
 const updaterHash=createHash('sha256').update(updaterToken).digest('hex');
 import {api} from '../lib/jobs.ts';
-import seed from '../data/seed.json' with {type:'json'};
+import archivedSeed from '../data/seed.json' with {type:'json'};
+// Historical source deadlines must not make active test fixtures expire over time.
+// The expiration test below supplies its own deliberately expired listing.
+const seed={...archivedSeed,jobs:archivedSeed.jobs.map(job=>({...job,deadline:new Date(Date.now()+30*86400000).toISOString()}))};
 class Bucket{items=new Map();etags=new Map();revision=0;async get(k){const s=this.items.get(k);return s?{etag:this.etags.get(k),json:async()=>JSON.parse(s)}:null;}async put(k,v,options={}){if(options.onlyIf?.etagMatches&&options.onlyIf.etagMatches!==this.etags.get(k))return null;if(options.onlyIf?.etagDoesNotMatch==='*'&&this.items.has(k))return null;this.items.set(k,v);const etag=String(++this.revision);this.etags.set(k,etag);return {etag};}}
 const sources=[{name:'Unstop',status:'ok'},{name:'Internshala',status:'ok'}];
 const post=(path,body,env,headers={})=>api(new Request('https://test.site/api/'+path,{method:'POST',headers:{'Content-Type':'application/json','X-FirstStep-Update-Token':updaterToken,...headers},body:JSON.stringify(body)}),env);
