@@ -2,7 +2,7 @@
 
 **Reviewed 19 November 2026. Strict agreement: role 48/50 (96%), location 46/50 (92%), both 44/50 (88%). Estimated separate API token subtotal: $0.093412 per 1,000 newly tagged posts. Actual deployed cost: unmeasured.**
 
-This is an individual, source-by-source **AI self-review by Codex**, not a human hand-check or independent human validation. It evaluates the tags shown on the published board, including its existing review corrections, against fresh original-source evidence. It is not a benchmark of a pinned model, which the deployed cloud task does not expose.
+This is an individual, source-by-source **AI self-review by Codex**, not a human hand-check or independent human validation. It evaluates the tags shown on the published board, including its existing review corrections, against fresh original-source evidence. Tagging runs in the scheduled cloud task. GPT-5.6 Luna is the cost-estimate model; this review does not benchmark that API model.
 
 ## Results
 
@@ -50,9 +50,9 @@ Useful follow-ups: store reference city separately from required work city, rech
 
 ## Cost per 1,000 posts
 
-### Actual deployed spend: unknown, not zero
+### Actual deployed spend: unmeasured, not zero
 
-The current scheduled cloud task supplies its LLM. The repository does not pin its model or record billable token categories, retries, tool usage and platform charges. No invoice or billing ledger was available. Therefore **there is no defensible measured actual $/1,000 figure yet**.
+The scheduled cloud task performs LLM-powered tagging. The separate API budget uses **GPT-5.6 Luna**. The task does not record billable token categories, retries, tool usage and platform charges. No invoice or billing ledger was available. Therefore **there is no defensible measured actual $/1,000 figure yet**.
 
 ### Hypothetical separate API implementation: $0.093412 ≈ $0.09
 

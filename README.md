@@ -77,7 +77,7 @@ The Vercel API applies reviewed corrections only to identical source versions an
 
 The cloud task fetches fresh public posts through `POST /api/collect`, retrieves new/changed candidates, uses its LLM to assign role and city tags, and saves validated annotations through `POST /api/tag`. `POST /api/publish` checks all tags and the minimum count, deduplicates, then conditionally replaces the latest R2 snapshot.
 
-**There is no OpenAI/Gemini API integration or pinned model in the Worker or Vercel application.** Initial annotations were authored by the Codex LLM. Daily annotations use the model supplied by the scheduled cloud task. Exact model/version selection is not pinned by this repository.
+Role and city tags come from LLM-powered annotation in the scheduled cloud task. Initial annotations were authored with Codex. **Cost-estimate model: GPT-5.6 Luna**, using its illustrative API token rates. This pricing reference describes the separate API budget, not a provider SDK integration in the deployed Worker or Vercel app.
 
 A complete manual refresh was exercised and persisted. The daily schedule is enabled; a completed unattended scheduled run was not observed as part of the original verification.
 

@@ -29,7 +29,7 @@ These notes distinguish observed failures from risks found during the audit.
 ## What was not established
 
 - A completed unattended scheduled run was not observed. The daily schedule is enabled and its underlying manual workflow was verified.
-- The exact LLM model/version is not pinned. A cloud-task execution supplies the model.
+- A cloud task performs LLM-powered tagging. GPT-5.6 Luna is the model used for illustrative API cost estimates; those estimates are separate from measured task spend.
 - Every employer and every individual application link was not independently verified.
 - There is no guarantee that external source formats/access will remain stable.
 - GitHub pushes do not currently trigger deployment to Vercel or Sites.

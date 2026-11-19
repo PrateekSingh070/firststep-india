@@ -52,7 +52,7 @@ Here is the working sheet with the job snapshot, all fifty review decisions, sou
 
 **Show:** Cost model, then AI tools and Prompts
 
-The estimated separate API token subtotal is about nine cents per thousand newly tagged posts. That is not measured production spend. The deployed cloud task does not expose its exact model or billable usage. This sheet shows the assumptions and formulas, and distinguishes exact user requests and recorded runtime instructions from a documented workflow. I have not claimed access to hidden prompts or billing records.
+The cost-estimate model is GPT-5.6 Luna. Using its illustrative API rates, the separate API token subtotal is about nine cents per thousand newly tagged posts. Actual cloud-task spend remains unmetered. The sheet shows the assumptions, formulas and prompt provenance. This is an API budget estimate, not measured production spend or a benchmark of GPT-5.6 Luna tagging quality.
 
 ### 4:00–4:35
 
@@ -82,7 +82,7 @@ FirstStep collects real India internship listings from Unstop and Internshala, r
 
 - Latest strict AI self-review: 96% role, 92% location, 88% jointly. Not independent human validation.
 - Hypothetical separate API token subtotal: $0.093412 per 1,000 newly tagged posts. Actual cloud-task cost is unmeasured.
-- The exact production model is not exposed. The pricing example does not identify it.
+- Cost-estimate model: GPT-5.6 Luna. This names the illustrative pricing reference, not the deployed tagging model.
 - Skills are term matches and the tracker is local to the browser.
 
 Loom guidance: https://www.loom.com/screen-recorder and https://support.atlassian.com/loom/docs/share-your-recording-with-specific-people

@@ -36,7 +36,7 @@ Open https://firststep-india.vercel.app.
 
 The public web tier runs on Vercel; collection/storage remain on Cloudflare/Sites. The scheduled cloud task supplies the LLM. Skills use deterministic term overlap; the tracker is device-local; reviewed corrections apply at read time.
 
-The daily schedule is configured; an unattended run was not observed in the original verification. Model identity and actual cloud-task cost are unmetered. The ~$0.10/1,000 number is a hypothetical visible-text API token subtotal, not actual spend. Employer legitimacy is not independently verified.
+The daily schedule is configured; an unattended run was not observed in the original verification. GPT-5.6 Luna is the cost-estimate model. Actual cloud-task cost is unmetered. The ~$0.10/1,000 number is a hypothetical visible-text API token subtotal, not actual spend. Employer legitimacy is not independently verified.
 
 ## Reproduce the checks
 

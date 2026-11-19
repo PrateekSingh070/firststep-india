@@ -21,4 +21,4 @@ A 401 means the updater token is missing, wrong, or rotated. Do not bypass it. I
 
 If Worker outbound source fetching is blocked, `node collector.mjs output.json` in `collector/` runs the same collectors on the task executor. Import its output with authenticated `POST /api/stage`, then follow the same annotation/publication workflow. This fallback requires access to the source checkout.
 
-No pinned model or external LLM API key is required by the current implementation. The scheduled task supplies LLM inference.
+The scheduled task performs LLM-powered role and city tagging. **Cost-estimate model: GPT-5.6 Luna**, used as the pricing reference for the separate API budget. The existing task workflow does not require an external LLM API key.

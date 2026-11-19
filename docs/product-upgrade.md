@@ -8,7 +8,7 @@ Discover supports full-text AND search (including quoted phrases), city/source/a
 
 Applications keeps manual stages, notes and a follow-up date in the current browser. A tracked job snapshot remains available when a post disappears from the active feed. The tracker does not submit applications or schedule reminders.
 
-Evidence exposes live collection health through a read-only status adapter, source counts and the persisted run ID. It includes the original 50-post audit and CSV, conservative baseline scores, applicable corrections, unresolved cases, and the existing cost/model limitations. This dashboard loads separately from the initial discovery bundle.
+Evidence exposes live collection health through a read-only status adapter, source counts and the persisted run ID. It includes the original 50-post audit and CSV, conservative baseline scores, applicable corrections, unresolved cases, and the GPT-5.6 Luna cost estimate and actual-spend limitations. This dashboard loads separately from the initial discovery bundle.
 
 ## Source-bound review
 
@@ -30,7 +30,7 @@ The review layer does not rewrite R2 snapshots or inflate audit accuracy. It is 
 - Expired, unsafe or malformed records are excluded.
 - Skills and notes stay in the browser; no private profile is sent to an LLM.
 - Skill matches are literal term overlap, not hiring probabilities.
-- Actual model/cost metering and scheduler-execution visibility remain explicit limitations.
+- GPT-5.6 Luna is the cost-estimate model. Actual task-cost metering and scheduler-execution visibility remain explicit limitations.
 
 ## Verification
 

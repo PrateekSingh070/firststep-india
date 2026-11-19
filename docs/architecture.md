@@ -54,7 +54,7 @@ The initial source dataset in `collector/data/seed.json` is a real fallback snap
 - Only a holder of the Site-scoped updater credential may use maintenance routes.
 - The Worker stores only the credential's verification digest in runtime configuration.
 - Vercel receives public job data only.
-- LLM execution is supplied by the scheduled cloud task, not by a model SDK in the web request path.
+- LLM-powered role and city tagging runs in the scheduled cloud task. GPT-5.6 Luna is the cost-estimate model for the hypothetical separate API budget; the web request path does not make model SDK calls.
 - The schedule is outside this Git repository; the instructions are checked in for reproducibility.
 - Both source fetches must succeed before publication. This preserves consistency but makes either source outage block a fresh snapshot.
 - The UI's device-local bookmarks remain separate across the old and new website origins.

@@ -299,8 +299,9 @@ export default function Evidence({ data }: { data: Feed | null }) {
           <span className="small-label">COST, WITHOUT A MADE-UP NUMBER</span>
           <h3>Actual cost: unmetered</h3>
           <p>
-            The scheduled task supplies the LLM. Model ID, billable tokens,
-            retries, and task charges are not exposed in this implementation.
+            Cost-estimate model: GPT-5.6 Luna. The scheduled task performs
+            LLM-powered tagging. Billable tokens, retries and task charges are
+            not metered in this implementation.
           </p>
           <div className="cost-example">
             <strong>~$0.10 / 1,000</strong>
@@ -315,7 +316,7 @@ export default function Evidence({ data }: { data: Feed | null }) {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Published rate used for the estimate
+            GPT-5.6 Luna pricing reference
             <ArrowUpRight size={13} />
           </a>
         </article>

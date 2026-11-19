@@ -54,9 +54,9 @@ The practical fixes indicated by this review are to weight responsibilities more
 
 ## Cost per 1,000 posts: actual cost is not measurable yet
 
-The deployed pipeline does **not** make a separately metered LLM API call. It uses the model supplied to a scheduled cloud task. The code does not record the model ID, input/output/reasoning token counts, retries, agent tool usage, or task charges, and no billing ledger was available for this audit.
+The deployed pipeline uses LLM-powered tagging in a scheduled cloud task. **Cost-estimate model: GPT-5.6 Luna.** This is a hypothetical separate API budget. The task does not log billable token categories, retries, tool usage or task charges, and no billing ledger was available for this audit.
 
-Therefore the honest actual number is **unknown, not $0**. The source collectors use public endpoints without a source API key, but that does not make cloud-task compute or hosting free.
+Actual deployed spend is **unmeasured, not $0**. The source collectors use public endpoints without a source API key, but that does not make cloud-task compute or hosting free.
 
 ### Explicit hypothetical API budget
 
