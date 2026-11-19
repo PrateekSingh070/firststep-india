@@ -22,43 +22,43 @@
 
 **Show:** Live website home
 
-Hi, I’m Prateek. This is FirstStep India, a live internship discovery tool for people starting their careers in India. I built it with Codex assistance. It collects real public listings, removes duplicates, uses an LLM to tag roles and cities, and presents a searchable board. The count and collection time shown here come from the saved feed.
+Hi, I’m Prateek. This is FirstStep India, a website that helps students and freshers find internships in India. It brings real listings into one place, removes duplicates and adds role and city labels. Here you can see the number of available posts and when the feed was last updated.
 
 ### 0:25–1:10
 
 **Show:** Enter Python, SQL, React; show results; open one source detail
 
-I’ll enter Python, SQL and React. The results now filter and rank immediately, and each card explains which terms matched. This is deterministic term matching, not an AI eligibility score. I can also filter by city, source, stipend and work arrangement. Opening a listing shows the original source link and description, so applicants can verify requirements themselves.
+I’ll enter Python, SQL and React. The results update immediately, and each card shows which skills appear in the listing. I can filter by city, source, stipend and work arrangement. Opening a job shows its description and original link, so applicants can check the details before applying.
 
 ### 1:10–1:45
 
 **Show:** Compare two listings; track one; show Applications
 
-I can compare up to three listings to inspect stipend, location, deadlines and skill terms side by side. Tracking a listing adds it to Applications, where I can update the stage, write notes and set a follow-up date. These records stay on this browser and device. The tool helps organize the search; it does not submit applications.
+I can compare up to three jobs side by side. I can also save a job in Applications, update its stage, add a note and set a follow-up date. These records are saved in this browser. The app organizes the search; applications are submitted on the original job website.
 
 ### 1:45–2:35
 
 **Show:** Evidence page, then GitHub architecture and checks
 
-The pipeline collects from the Unstop API and Internshala pages. The scheduled cloud task tags new or changed posts. Publication checks complete tags, removes duplicates and requires at least two hundred posts. Cloudflare R2 stores the last successful snapshot. Failed refreshes preserve that snapshot, and conditional writes protect concurrent updates. Vercel serves the public website. Maintenance writes require authentication. GitHub Actions runs the product tests, type checks, build, collector tests and audit verification.
+The app collects jobs from Unstop and Internshala. A daily task uses AI to label new or changed posts. Before publishing, it checks the labels, removes duplicates and requires at least two hundred posts. If an update fails, the previous successful feed stays available. Cloudflare stores the data, and Vercel hosts the website. Updates require authentication, and GitHub runs automated code checks.
 
 ### 2:35–3:25
 
 **Show:** Working sheet: Submission and Reviewed posts; show rows 22 and 49
 
-Here is the working sheet with the job snapshot, all fifty review decisions, sources, tools and prompts. The latest November nineteenth AI self-review found strict agreement of ninety-six percent for role, ninety-two percent for location and eighty-eight percent for both. Ambiguities remain in the denominator. Two differences are normalization choices, and one source changed after collection. This is not independent human validation. The website’s older evidence panel preserves the November sixteenth baseline separately.
+This sheet contains the job data and fifty review decisions with source links. The latest AI-assisted review found strict agreement of ninety-six percent for roles, ninety-two percent for locations and eighty-eight percent for both. Unclear cases count as non-matches. This is not independent human validation. The website keeps an older baseline; this sheet contains the latest review.
 
 ### 3:25–4:00
 
 **Show:** Cost model, then AI tools and Prompts
 
-The cost-estimate model is GPT-5.6 Luna. Using its illustrative API rates, the separate API token subtotal is about nine cents per thousand newly tagged posts. Actual cloud-task spend remains unmetered. The sheet shows the assumptions, formulas and prompt provenance. This is an API budget estimate, not measured production spend or a benchmark of GPT-5.6 Luna tagging quality.
+I used Codex for help with coding, debugging and testing. The app also uses AI for role and city labels. The Prompts tab records the requests and tagging instructions. Using GPT-5.6 Luna pricing, the estimated API token cost is about nine cents per thousand new tags. This is an estimate, not the actual hosting or cloud-task bill.
 
 ### 4:00–4:35
 
 **Show:** GitHub findings, then live site to close
 
-A real usability issue was that entering skills originally left the newest-first list unchanged. I fixed it so typing immediately filters and ranks jobs, with a visible match count. The audit also shows why source drift and remote-versus-local requirements need review. Reviewed corrections are tied to source fingerprints so changed inputs invalidate old reviews. My next priorities are independent human validation and pinned, metered model calls. The live tool, repository and working evidence sheet are linked in my submission.
+One issue was that entering skills did not visibly change the job list. That is fixed: typing now filters and ranks the results, with a visible match count. The review also identified changed source text and unclear remote-work requirements. Next steps include independent human review and recording actual tagging costs. The submission links include the live app, this working sheet and the repository.
 
 ## After recording
 
@@ -86,4 +86,3 @@ FirstStep collects real India internship listings from Unstop and Internshala, r
 - Skills are term matches and the tracker is local to the browser.
 
 Loom guidance: https://www.loom.com/screen-recorder and https://support.atlassian.com/loom/docs/share-your-recording-with-specific-people
-
