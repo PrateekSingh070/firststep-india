@@ -1919,8 +1919,8 @@ dd {
   color: #b0b9a2;
 }
 .skills-box p {
-  font-size: 8px;
-  color: #8f9d80;
+  font-size: 11px;
+  color: #526347;
   line-height: 1.7;
   margin: 8px 0 4px;
 }
@@ -1928,6 +1928,23 @@ dd {
   font-size: 7px;
   color: #a4ad98;
 }
+.skills-find {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+  width: 100%;
+  margin: 10px 0 8px;
+  padding: 9px 10px;
+  border: 0;
+  border-radius: 5px;
+  background: #294b3d;
+  color: #fff;
+  font-size: 11px;
+  cursor: pointer;
+}
+.skills-find:disabled { opacity: .5; cursor: not-allowed; }
+.skills-find:focus-visible { outline: 2px solid #668b42; outline-offset: 3px; }
 .side-proof {
   display: flex;
   align-items: center;

@@ -305,6 +305,7 @@ export default function App() {
     () => Object.fromEntries(jobs.map((j) => [j.id, skillMatches(j, skills)])),
     [data, skillsText],
   );
+  const skillMatchCount = jobs.filter((job) => matchMap[job.id]?.length).length;
   const filtered = useMemo(
     () =>
       jobs
@@ -553,23 +554,50 @@ export default function App() {
           <div className="skills-box">
             <div>
               <Target size={15} />
-              <strong>Find your overlap</strong>
+              <strong>Find jobs matching your skills</strong>
             </div>
             <label htmlFor="skills">Your skills, separated by commas</label>
             <textarea
               id="skills"
               aria-label="Your skills"
+              aria-describedby="skills-feedback"
               rows={2}
               maxLength={500}
               placeholder="Python, SQL, React…"
               value={skillsText}
-              onChange={(e) => setSkillsText(e.target.value)}
+              onChange={(e) => {
+                const value = e.target.value;
+                setSkillsText(value);
+                const hasSkills = parseSkills(value).length > 0;
+                setOnlyMatches(hasSkills);
+                setSort(hasSkills ? 'matches' : 'recent');
+              }}
             />
-            {skills.length ? (
-              <p>{skills.length} skills · Matches use terms in the listing.</p>
-            ) : (
-              <p>Add a few skills to see why a role could fit.</p>
-            )}
+            <p id="skills-feedback" role="status" aria-live="polite">
+              {skills.length
+                ? loading
+                  ? 'Loading jobs to match your skills…'
+                  : error
+                    ? 'Jobs could not load. Please retry the feed.'
+                    : `${skillMatchCount} of ${jobs.length} jobs mention at least one of your skills.`
+                : 'Enter skills to filter and rank jobs by matching terms.'}
+            </p>
+            <button
+              className="skills-find"
+              disabled={!skills.length || loading || !!error}
+              onClick={() => {
+                setView('discover');
+                setFilters(emptyFilters);
+                setOnlyMatches(true);
+                setSort('matches');
+                setLimit(18);
+                setMobile(false);
+                document.getElementById('results')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              }}
+            >
+              Find matching jobs <ArrowRight size={14} />
+            </button>
+            <small>Matches listing text. This button searches all jobs.</small>
             <small>Stored on this device.</small>
           </div>
           <button className="side-proof" onClick={() => setView('evidence')}>
