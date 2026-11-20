@@ -26,7 +26,7 @@ Strict scores count ambiguities and two normalization-only differences as non-ma
 
 ## Repository layout
 
-Submission materials: [working Google Sheet with job data, AI tools, prompts and review](https://docs.google.com/spreadsheets/d/1OKOd_ZQoaYNwI9sOyNGLD7ys58WEONCrgWbBTAMLd9k/edit) · [face-and-screen Loom script and submission checklist](docs/competition-submission.md). The owner still needs to record the Loom and grant judges viewer access to the sheet and private repository.
+Submission materials: [working Google Sheet with job data, AI tools, prompts and review](https://docs.google.com/spreadsheets/d/1OKOd_ZQoaYNwI9sOyNGLD7ys58WEONCrgWbBTAMLd9k/edit) · [face-and-screen Loom script and submission checklist](docs/competition-submission.md). The repository is public, and the sheet allows anyone with its link to view. Add the recorded Loom URL to complete the submission links.
 
 - `web/`: the deployed React/Vite frontend, plus the read-only Vercel Function in `web/api/jobs.js`.
 - `collector/`: the Cloudflare Workers/Vinext service, public-source collectors, R2 snapshot workflow, initial dataset, and pipeline tests. Its original Sites deployment metadata and build helpers are retained.

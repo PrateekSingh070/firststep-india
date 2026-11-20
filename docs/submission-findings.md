@@ -51,4 +51,4 @@ The comparison places two original listings side by side, including arrangement,
 
 ![Two internship listings compared side by side](screenshots/2026-11-21/03-job-comparison.jpg)
 
-The repository is private. Give judges access to the repository and working sheet before submitting their links.
+The repository is public, and the working sheet allows anyone with its link to view. Judges can open these evidence links without an invitation.

@@ -5,7 +5,7 @@
 - Product: https://firststep-india.vercel.app
 - Working sheet: https://docs.google.com/spreadsheets/d/1OKOd_ZQoaYNwI9sOyNGLD7ys58WEONCrgWbBTAMLd9k/edit
 - Loom: record your own face and screen, then paste its share link.
-- Optional repository: https://github.com/PrateekSingh070/firststep-india (private; judges need access).
+- Public repository: https://github.com/PrateekSingh070/firststep-india
 
 ## Before recording
 

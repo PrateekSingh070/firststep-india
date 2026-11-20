@@ -342,7 +342,7 @@ export default function Evidence({ data }: { data: Feed | null }) {
             <ArrowUpRight size={13} />
           </a>
           <small className="muted">
-            Repository access may require a GitHub invitation.
+            Public source code and technical documentation.
           </small>
         </article>
       </div>
